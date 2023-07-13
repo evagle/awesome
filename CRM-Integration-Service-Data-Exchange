@@ -1,78 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T10:20:06.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jDEjUDLL4-TKyy6kbOqh" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T04:59:23.325Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l1PBpuzEJwS0XXx01oPk" version="21.6.1" type="github">
   <diagram name="Page-1" id="GZdyrGqmICXrsEadPTu5">
-    <mxGraphModel dx="705" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2641" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-1" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="VoFpDePKS_Hs2QTVOJmP-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="680" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-2" value="Facility Agreement Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-24" target="yJfy9-ntvjEzJSl85YOc-2">
+        <mxCell id="VoFpDePKS_Hs2QTVOJmP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-1" target="VoFpDePKS_Hs2QTVOJmP-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-7" target="yJfy9-ntvjEzJSl85YOc-1">
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-1" value="Integration Gateway" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-2" value="Facility Agreement Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yJfy9-ntvjEzJSl85YOc-24" target="yJfy9-ntvjEzJSl85YOc-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoFpDePKS_Hs2QTVOJmP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-7" target="yJfy9-ntvjEzJSl85YOc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-7" value="Create/Update/Deactivate Facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yJfy9-ntvjEzJSl85YOc-8" target="yJfy9-ntvjEzJSl85YOc-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-8" value="Create/Update Space" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yJfy9-ntvjEzJSl85YOc-12" target="yJfy9-ntvjEzJSl85YOc-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="140" />
-              <mxPoint x="260" y="170" />
+              <mxPoint x="550" y="660" />
+              <mxPoint x="550" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-7" value="Create/Update/Deactivate Facility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-12" value="Facility Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-8" target="yJfy9-ntvjEzJSl85YOc-1">
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yJfy9-ntvjEzJSl85YOc-13" target="yJfy9-ntvjEzJSl85YOc-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-8" value="Create/Update Space" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-13" value="KEQ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-12" target="yJfy9-ntvjEzJSl85YOc-13">
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yJfy9-ntvjEzJSl85YOc-16" target="yJfy9-ntvjEzJSl85YOc-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-12" value="Facility Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-13" target="yJfy9-ntvjEzJSl85YOc-16">
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yJfy9-ntvjEzJSl85YOc-16" target="yJfy9-ntvjEzJSl85YOc-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-13" value="KEQ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-16" value="Upstream Event Handler" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-16" target="yJfy9-ntvjEzJSl85YOc-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-16" target="yJfy9-ntvjEzJSl85YOc-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-16" value="Upstream Event Handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yJfy9-ntvjEzJSl85YOc-1" target="yJfy9-ntvjEzJSl85YOc-24">
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yJfy9-ntvjEzJSl85YOc-1" target="yJfy9-ntvjEzJSl85YOc-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="200" as="sourcePoint" />
             <mxPoint x="160" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-26" value="Space Sales Prices" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yJfy9-ntvjEzJSl85YOc-25">
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-26" value="Space Sales Prices" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yJfy9-ntvjEzJSl85YOc-25" vertex="1" connectable="0">
           <mxGeometry x="-0.16" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-24" value="Downstream Event Handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-24" value="Downstream Event Handler" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-27" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;CREATE TABLE IF NOT EXISTS &lt;span style=&quot;color:#000000;&quot;&gt;css_crm_entity_relation &lt;/span&gt;(&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;css_entity_id        &lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;UUID                     &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;crm_entity_id        &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;STRING                   NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;css_entity_type      &lt;/span&gt;css_entity_type_enum     &lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;crm_entity_type      &lt;/span&gt;crm_entity_type_enum     &lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;crm_provider         &lt;/span&gt;crm_provider_enum        &lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;metadata             &lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;JSONB                    &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;created_at           &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;TIMESTAMP WITHOUT TIME ZONE DEFAULT &lt;/span&gt;&lt;span style=&quot;color:#00627a;font-style:italic;&quot;&gt;now&lt;/span&gt;() &lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;deleted_at           &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;TIMESTAMP WITHOUT TIME ZONE NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#0033b3;&quot;&gt;CONSTRAINT &lt;/span&gt;&quot;primary&quot; &lt;span style=&quot;color:#0033b3;&quot;&gt;PRIMARY KEY &lt;/span&gt;(&lt;span style=&quot;color:#871094;&quot;&gt;css_entity_id&lt;/span&gt;, &lt;span style=&quot;color:#871094;&quot;&gt;crm_entity_id&lt;/span&gt;, &lt;span style=&quot;color:#871094;&quot;&gt;crm_provider&lt;/span&gt;)&lt;br&gt;);&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="700" width="870" height="200" as="geometry" />
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-27" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;CREATE TABLE IF NOT EXISTS &lt;span style=&quot;color:#000000;&quot;&gt;css_crm_entity_relation &lt;/span&gt;(&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;css_entity_id        &lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;UUID                     &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;crm_entity_id        &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;STRING                   NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;css_entity_type      &lt;/span&gt;css_entity_type_enum     &lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;crm_entity_type      &lt;/span&gt;crm_entity_type_enum     &lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;crm_provider         &lt;/span&gt;crm_provider_enum        &lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;metadata             &lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;JSONB                    &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;created_at           &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;TIMESTAMP WITHOUT TIME ZONE DEFAULT &lt;/span&gt;&lt;span style=&quot;color:#00627a;font-style:italic;&quot;&gt;now&lt;/span&gt;() &lt;span style=&quot;color:#0033b3;&quot;&gt;NOT NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#871094;&quot;&gt;deleted_at           &lt;/span&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;TIMESTAMP WITHOUT TIME ZONE NULL&lt;/span&gt;,&lt;br&gt;  &lt;span style=&quot;color:#0033b3;&quot;&gt;CONSTRAINT &lt;/span&gt;&quot;primary&quot; &lt;span style=&quot;color:#0033b3;&quot;&gt;PRIMARY KEY &lt;/span&gt;(&lt;span style=&quot;color:#871094;&quot;&gt;css_entity_id&lt;/span&gt;, &lt;span style=&quot;color:#871094;&quot;&gt;crm_entity_id&lt;/span&gt;, &lt;span style=&quot;color:#871094;&quot;&gt;crm_provider&lt;/span&gt;)&lt;br&gt;);&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="790" width="870" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-28" value="Facility 同步字段&lt;br&gt;&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;facilityId_ = &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;name_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;shortId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;facilityType_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;operatingHours_ &lt;/span&gt;= &lt;span style=&quot;color:#000000;&quot;&gt;java.util.Collections&lt;/span&gt;.&lt;span style=&quot;font-style:italic;&quot;&gt;emptyList&lt;/span&gt;();&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;legalEntity_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;acquiredEntity_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;crmFacilityId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;propertyStatus_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="920" width="410" height="220" as="geometry" />
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-28" value="Facility 同步字段&lt;br&gt;&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;facilityId_ = &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;name_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;shortId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;facilityType_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;operatingHours_ &lt;/span&gt;= &lt;span style=&quot;color:#000000;&quot;&gt;java.util.Collections&lt;/span&gt;.&lt;span style=&quot;font-style:italic;&quot;&gt;emptyList&lt;/span&gt;();&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;legalEntity_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;acquiredEntity_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;crmFacilityId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;propertyStatus_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="1010" width="410" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="yJfy9-ntvjEzJSl85YOc-29" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;Space同步字段&lt;br/&gt;cssSpaceId_ = &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;cssFacilityId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;crmSpaceId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;crmFacilityId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;name_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;code_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;spaceType_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;salesStatus_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;dineInDeliveryOnly_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;spaceStatus_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1210" width="60" height="30" as="geometry" />
+        <mxCell id="yJfy9-ntvjEzJSl85YOc-29" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;Space同步字段&lt;br/&gt;cssSpaceId_ = &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;cssFacilityId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;crmSpaceId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;crmFacilityId_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;name_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;code_ &lt;/span&gt;= &lt;span style=&quot;color:#067d17;&quot;&gt;&quot;&quot;&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;spaceType_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;salesStatus_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;dineInDeliveryOnly_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color:#871094;&quot;&gt;spaceStatus_ &lt;/span&gt;= &lt;span style=&quot;color:#1750eb;&quot;&gt;0&lt;/span&gt;;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1250" width="420" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VoFpDePKS_Hs2QTVOJmP-2" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VoFpDePKS_Hs2QTVOJmP-6" value="&lt;b&gt;CRM Integration Service&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
