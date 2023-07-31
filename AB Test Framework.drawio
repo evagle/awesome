@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T06:51:58.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="p_qMF3p1ZJuRVbkJI1EY" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T07:43:12.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="id64AgvSRTqDJDLe0xJt" version="21.6.2" type="github">
   <diagram name="Page-1" id="9QeHdNVHPwO_x1KukDSW">
-    <mxGraphModel dx="996" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1512" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="SWEwTVils9bih22T1pXm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SWEwTVils9bih22T1pXm-5" target="SWEwTVils9bih22T1pXm-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-0s6X6XIjvuudsZd8ZC-1" value="type" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWEwTVils9bih22T1pXm-24">
+        <mxCell id="z-0s6X6XIjvuudsZd8ZC-1" value="type" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SWEwTVils9bih22T1pXm-24" vertex="1" connectable="0">
           <mxGeometry x="-0.72" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -69,7 +69,7 @@
         <mxCell id="SWEwTVils9bih22T1pXm-18" value="Executor1: Send Coupon" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SWEwTVils9bih22T1pXm-19" value="Executor2: Return Banner Url" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SWEwTVils9bih22T1pXm-19" value="Executor2: Return Display Url/Text" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SWEwTVils9bih22T1pXm-21" value="......" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
