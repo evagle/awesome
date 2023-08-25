@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T02:00:37.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.9" etag="T_uVoqojdFbcdxIksrBH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T03:34:14.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1T86nn53muWa0kULVltD" version="21.6.9" type="github">
   <diagram name="Page-1" id="8MWwS3MdzaC4GidmPY1Y">
-    <mxGraphModel>
+    <mxGraphModel dx="1550" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jHkAUHoY4Put91m9tlZh-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="420" as="sourcePoint" />
+            <mxPoint x="630" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-2" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-3" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-4" value="C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-5" value="D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-6" value="whitelist&lt;br&gt;blacklist&lt;br&gt;coupon有效&lt;br&gt;entitlement生效&lt;br&gt;round&lt;br&gt;roundinterval&lt;br&gt;roundblockinterval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="485" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-7" value="1. 有whitelist，无视其他条件，只能选这个variant，如果variant已经有entitlement，" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="470" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-8" value="2. 根据ab test result获得当前round&lt;br&gt;2.1 如果round interval到了，进入下一个round" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-9" value="3. 检查round内的variant&lt;br&gt;3.1 在blacklist里筛除&lt;br&gt;3.2 entitlement筛除&lt;br&gt;3.3 有一个coupon有效，则只选这个variant，排除其他" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="600" width="335" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-10" value="4. 如果步骤3的round没有variant了，进入下一个round，回到3&lt;br&gt;4.1 如果步骤3还有variant，则按照比例随机分配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="730" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-12" value="B1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-13" value="C1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHkAUHoY4Put91m9tlZh-16" value="C2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
