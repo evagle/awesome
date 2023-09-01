@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T07:30:32.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tbmkbBX02wcZj_wGFanu" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T07:50:27.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GZFgqMutl16uwYrBqnkH" version="21.6.9" type="github">
   <diagram name="Page-1" id="fA3u-GXtUFKHO4X6yB6d">
-    <mxGraphModel dx="706" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
         <mxCell id="qoWWzhYEidEXgGl6EL8e-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-51" target="qoWWzhYEidEXgGl6EL8e-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qoWWzhYEidEXgGl6EL8e-51" value="自动续费核销率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-51" value="自动续费核销率=&lt;br&gt;打开自动续费的核销数/发券数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-52" target="qoWWzhYEidEXgGl6EL8e-57">
@@ -151,7 +151,7 @@
         <mxCell id="qoWWzhYEidEXgGl6EL8e-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-52" target="qoWWzhYEidEXgGl6EL8e-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qoWWzhYEidEXgGl6EL8e-52" value="非自动续费核销率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-52" value="非自动续费核销率=&lt;br&gt;关闭自动续费的核销数/发券数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-55" value="1-N次续费率=&lt;br&gt;续费人数/上步总人数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -201,9 +201,6 @@
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Dimensions&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1. 用户组A/B&lt;br&gt;2. feature: 接单大师/运营大师&lt;br&gt;3. 场景：ofo绑定/打印机绑定/OM/开屏" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="1290" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qoWWzhYEidEXgGl6EL8e-76" value="IAP页面购买率&lt;br&gt;购买人数/实验人数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-77" value="后端metrics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="159" y="1250" width="430" height="30" as="geometry" />
@@ -255,7 +252,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qoWWzhYEidEXgGl6EL8e-86" value="Lutrahub Operation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-86" value="Lutrahub Operation&lt;br&gt;Claim Success event coupon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-92" value="&lt;b&gt;Hardcode plan name&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
