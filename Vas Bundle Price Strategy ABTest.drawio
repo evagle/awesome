@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T07:51:41.516Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Hu7VLLXK-XcUyQii1eYy" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T08:01:15.791Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6s3Q9XO5_KFvvdjWlXMl" version="21.6.9" type="github">
   <diagram name="Page-1" id="fA3u-GXtUFKHO4X6yB6d">
     <mxGraphModel dx="1009" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-85" value="Event Upsell" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="1005" width="230" height="140" as="geometry" />
+          <mxGeometry x="375" y="1005" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.698;exitY=0.98;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-86" target="qoWWzhYEidEXgGl6EL8e-79">
           <mxGeometry relative="1" as="geometry" />
@@ -256,13 +256,80 @@
           <mxGeometry x="52.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-92" value="&lt;b&gt;Hardcode plan name&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1100" width="80" height="30" as="geometry" />
+          <mxGeometry x="446" y="1100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-94" value="Lutrahub Operation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qoWWzhYEidEXgGl6EL8e-98" value="前端metrics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="2000" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-99" value="Event Triggered" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-102" target="qoWWzhYEidEXgGl6EL8e-112">
+          <mxGeometry y="43" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-102" target="qoWWzhYEidEXgGl6EL8e-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-101" value="coupon code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qoWWzhYEidEXgGl6EL8e-100">
+          <mxGeometry x="0.0328" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-102" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="950" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-103" value="绑定打印机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="993" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-104" value="OFO Onbord" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1068" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-105" value="OM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-106" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Native 页面&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="960" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-109" target="qoWWzhYEidEXgGl6EL8e-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-108" value="coupon code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qoWWzhYEidEXgGl6EL8e-107">
+          <mxGeometry x="0.0323" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-109" target="qoWWzhYEidEXgGl6EL8e-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-117" value="coupon code+plan name" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qoWWzhYEidEXgGl6EL8e-116">
+          <mxGeometry x="-0.0975" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-109" value="Event Upsell" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="1015" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.698;exitY=0.98;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="qoWWzhYEidEXgGl6EL8e-112" target="qoWWzhYEidEXgGl6EL8e-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-111" value="Coupon: code, plan name&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qoWWzhYEidEXgGl6EL8e-110">
+          <mxGeometry x="-0.1024" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-112" value="Lutrahub Operation&lt;br&gt;Claim Success event coupon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-113" value="&lt;b&gt;Hardcode plan name&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1066" y="1110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-114" value="Query Coupon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWWzhYEidEXgGl6EL8e-115" value="Payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
