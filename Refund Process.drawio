@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T03:36:35.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Szw7CPubfOr7Xj3-c6oG" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T03:51:17.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Z-7UzcyiB8048ZL2lQqn" version="22.0.4" type="github">
   <diagram name="Page-1" id="4uHMcKMRvg0_LEWAuXip">
     <mxGraphModel dx="1969" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
         <mxCell id="o_j3ER19nrDaT_RUkGzO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_j3ER19nrDaT_RUkGzO-45" target="o_j3ER19nrDaT_RUkGzO-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_j3ER19nrDaT_RUkGzO-45" value="Pub/Sub" style="sketch=0;outlineConnect=0;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.queue;direction=south;" parent="1" vertex="1">
+        <mxCell id="o_j3ER19nrDaT_RUkGzO-45" value="Queue&lt;br&gt;" style="sketch=0;outlineConnect=0;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.queue;direction=south;" parent="1" vertex="1">
           <mxGeometry x="290" y="480" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o_j3ER19nrDaT_RUkGzO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.974;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="o_j3ER19nrDaT_RUkGzO-52" target="o_j3ER19nrDaT_RUkGzO-3" edge="1">
