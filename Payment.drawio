@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T08:54:41.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NF4PAWRpoharBfDMndfe" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T08:56:16.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="foIYDz4HskygJL1Aq0lP" version="22.0.5" type="github">
   <diagram name="Page-1" id="daQMxPoLiWvEaAu8mH8G">
     <mxGraphModel dx="1067" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
         <mxCell id="7IKaTa6HvfbyAlti07tv-27" value="支付宝Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7IKaTa6HvfbyAlti07tv-33" value="Item Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7IKaTa6HvfbyAlti07tv-33" value="Item Service&lt;br&gt;+Inventory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="357" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -175,7 +175,7 @@
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-53" value="update payment order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7IKaTa6HvfbyAlti07tv-52">
           <mxGeometry x="-0.0345" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-46" target="7IKaTa6HvfbyAlti07tv-54">
