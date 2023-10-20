@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T07:02:17.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="spxsqAfj0SSntIr1ELI5" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T07:02:59.009Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NBaODLkuSWLmOJsIpl_t" version="22.0.5" type="github">
   <diagram name="Page-1" id="SvzZrYBlYYhq_vC4gZUT">
     <mxGraphModel dx="651" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="l3nxZduVzOk6geIpgeGZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="l3nxZduVzOk6geIpgeGZ-51" target="l3nxZduVzOk6geIpgeGZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l3nxZduVzOk6geIpgeGZ-11" value="Payment Service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l3nxZduVzOk6geIpgeGZ-11" value="Payment Service" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="820" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3nxZduVzOk6geIpgeGZ-12" value="Order" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="l3nxZduVzOk6geIpgeGZ-18" value="Alipay" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l3nxZduVzOk6geIpgeGZ-19" value="Item DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="l3nxZduVzOk6geIpgeGZ-19" value="Item DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="652.5" y="440" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3nxZduVzOk6geIpgeGZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l3nxZduVzOk6geIpgeGZ-39" target="l3nxZduVzOk6geIpgeGZ-21">
