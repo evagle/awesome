@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T03:26:55.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="duGMUd4JHyQ3gZOBBGwW" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T05:32:32.016Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_GmxBUonYobmP7ILCjx0" version="22.0.5" type="github">
   <diagram name="Page-1" id="daQMxPoLiWvEaAu8mH8G">
-    <mxGraphModel dx="2020" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="644" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7IKaTa6HvfbyAlti07tv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-46" target="7IKaTa6HvfbyAlti07tv-10">
+        <mxCell id="7IKaTa6HvfbyAlti07tv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-46" target="7IKaTa6HvfbyAlti07tv-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-53" value="update payment order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7IKaTa6HvfbyAlti07tv-52">
@@ -169,10 +169,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-46" value="Intergation gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="832.5" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="822.5" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/UltimateGnome/128x128/status/gnome-fs-loading-icon.png" vertex="1" parent="1">
-          <mxGeometry x="902.5" y="540" width="40" height="40" as="geometry" />
+          <mxGeometry x="892.5" y="630" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-48" target="7IKaTa6HvfbyAlti07tv-46">
           <mxGeometry relative="1" as="geometry" />
@@ -183,16 +183,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-48" value="万里牛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="832.5" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="822.5" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-54" value="Delivery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="862.5" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="685" y="357" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-33" target="7IKaTa6HvfbyAlti07tv-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7IKaTa6HvfbyAlti07tv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.914;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-46" target="7IKaTa6HvfbyAlti07tv-33">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7IKaTa6HvfbyAlti07tv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-46" target="7IKaTa6HvfbyAlti07tv-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="605" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-61" value="update inventory" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7IKaTa6HvfbyAlti07tv-60">
           <mxGeometry x="-0.1781" y="1" relative="1" as="geometry">
@@ -213,6 +217,14 @@
         <mxCell id="7IKaTa6HvfbyAlti07tv-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
           <mxGeometry x="71" y="185" width="18" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7IKaTa6HvfbyAlti07tv-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.588;exitY=1.007;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-66" target="7IKaTa6HvfbyAlti07tv-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKaTa6HvfbyAlti07tv-82" value="Sync Item/Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7IKaTa6HvfbyAlti07tv-81">
+          <mxGeometry x="0.085" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-66" value="Mall&lt;br&gt;商品系统业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -221,15 +233,6 @@
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-67" value="Plan/Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7IKaTa6HvfbyAlti07tv-71" value="Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7IKaTa6HvfbyAlti07tv-72" value="购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7IKaTa6HvfbyAlti07tv-73" value="General Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7IKaTa6HvfbyAlti07tv-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.347;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7IKaTa6HvfbyAlti07tv-66" target="7IKaTa6HvfbyAlti07tv-10">
           <mxGeometry relative="1" as="geometry" />
