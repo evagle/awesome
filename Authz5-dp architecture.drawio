@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T16:02:43.138Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Yti_3IXIctimrLNwVixM" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T16:08:06.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1K7om7BxO2Z13bXOskZH" version="22.0.8" type="github">
   <diagram name="Page-1" id="XfXhsya1PBFbVo7L8IAR">
     <mxGraphModel dx="644" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,9 +77,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7YKEmw7hqahk-HYZp5Uc-14" value="Run every 3s&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7YKEmw7hqahk-HYZp5Uc-13">
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-14" value="Every 3s" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7YKEmw7hqahk-HYZp5Uc-13">
           <mxGeometry x="0.048" y="3" relative="1" as="geometry">
-            <mxPoint x="-13" y="-34" as="offset" />
+            <mxPoint x="-26" y="-33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7YKEmw7hqahk-HYZp5Uc-11" value="ChangeLog Reader" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -119,8 +119,8 @@
         <mxCell id="7YKEmw7hqahk-HYZp5Uc-21" value="ConsistencyChecker" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7YKEmw7hqahk-HYZp5Uc-25" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;问题：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. changelog reader延时3秒，导致changelog更新不及时&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 冷热数据全部load进内存，memory需求不断增加，因为用户流失后也不会删除相关auth信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="190" width="255" height="90" as="geometry" />
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-25" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;问题：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. changelog reader延时3秒，导致changelog更新不及时&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 冷热数据全部load进内存，memory需求不断增加，因为用户流失后也不会删除相关auth信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 如果DP与CP数据不一致，没有自动校准的机制&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. consistency处理太简单暴力而且不合理的将决定权交给了调用者&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="275" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7YKEmw7hqahk-HYZp5Uc-37" value="bucket1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="60" height="20" as="geometry" />
@@ -160,6 +160,12 @@
         </mxCell>
         <mxCell id="7YKEmw7hqahk-HYZp5Uc-61" value="DP Server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-69" value="OSS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7YKEmw7hqahk-HYZp5Uc-7" target="7YKEmw7hqahk-HYZp5Uc-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
