@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T16:36:50.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="A5CVRBey5VLmWjLdh7VK" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T16:57:42.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lvZi5yThLaLqhDQqShD4" version="22.0.8" type="github">
   <diagram name="Page-1" id="XfXhsya1PBFbVo7L8IAR">
     <mxGraphModel dx="1494" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,11 +134,11 @@
         <mxCell id="7YKEmw7hqahk-HYZp5Uc-39" value="bucketN" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="510" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7YKEmw7hqahk-HYZp5Uc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7YKEmw7hqahk-HYZp5Uc-40" target="7YKEmw7hqahk-HYZp5Uc-55">
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7YKEmw7hqahk-HYZp5Uc-40" target="7YKEmw7hqahk-HYZp5Uc-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7YKEmw7hqahk-HYZp5Uc-40" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="440" width="30" height="60" as="geometry" />
+          <mxGeometry x="1140" y="440" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7YKEmw7hqahk-HYZp5Uc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7YKEmw7hqahk-HYZp5Uc-55" target="7YKEmw7hqahk-HYZp5Uc-15">
           <mxGeometry relative="1" as="geometry" />
@@ -235,6 +235,26 @@
         </mxCell>
         <mxCell id="7YKEmw7hqahk-HYZp5Uc-91" value="&lt;b&gt;Workflow&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="819" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="7YKEmw7hqahk-HYZp5Uc-92" target="7YKEmw7hqahk-HYZp5Uc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-94" value="CRUD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7YKEmw7hqahk-HYZp5Uc-93">
+          <mxGeometry x="-0.5632" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-92" value="Auth Role Management&lt;br&gt;&lt;font color=&quot;#fa1900&quot;&gt;RBAC wrapper&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7YKEmw7hqahk-HYZp5Uc-104" target="7YKEmw7hqahk-HYZp5Uc-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-104" value="Ottergate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7YKEmw7hqahk-HYZp5Uc-108" value="kitchen auth lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="480" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
