@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T11:04:58.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9M90fN26ZErbM9yajnyg" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T11:05:59.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Yfie7LZzBr-BIncfvQvu" version="22.1.7" type="github">
   <diagram name="Page-1" id="y0g2k3MViaqip-643Z0D">
     <mxGraphModel dx="653" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,9 +230,9 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-87" value="Push Message" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-85">
+        <mxCell id="tX9U0qZX7yQvij5a4MrE-87" value="GraphQL Subscription&lt;br&gt;One-Way Push" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-85">
           <mxGeometry x="-0.6535" y="-1" relative="1" as="geometry">
-            <mxPoint y="-9" as="offset" />
+            <mxPoint x="-7" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX9U0qZX7yQvij5a4MrE-61" value="ottergate-subscriptions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
