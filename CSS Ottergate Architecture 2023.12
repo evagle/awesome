@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T11:26:26.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mFzMWX_Hi9NVEbP9Frwl" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T11:42:23.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4WEVcsdvflfQ2FIFv0H9" version="22.1.7" type="github">
   <diagram name="Page-1" id="y0g2k3MViaqip-643Z0D">
     <mxGraphModel dx="653" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -310,98 +310,8 @@
         <mxCell id="tX9U0qZX7yQvij5a4MrE-92" value="Grpc Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="2136" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="tX9U0qZX7yQvij5a4MrE-116" target="tX9U0qZX7yQvij5a4MrE-124">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-114" value="Websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-113">
-          <mxGeometry x="0.1697" y="-2" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-115" value="GraphQL Subscription&lt;br&gt;One-Way Push" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-113">
-          <mxGeometry x="-0.6535" y="-1" relative="1" as="geometry">
-            <mxPoint x="-7" y="-20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-116" value="graphql federation gateway" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="677.25" y="1884.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tX9U0qZX7yQvij5a4MrE-125" target="tX9U0qZX7yQvij5a4MrE-121">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="737.25" y="1684.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-118" value="Connect Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-117">
-          <mxGeometry x="-0.0345" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tX9U0qZX7yQvij5a4MrE-121" target="tX9U0qZX7yQvij5a4MrE-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-120" value="Connect Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-119">
-          <mxGeometry x="-0.0333" y="-5" relative="1" as="geometry">
-            <mxPoint x="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-121" value="one-api-gateway-proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="677.25" y="1744.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tX9U0qZX7yQvij5a4MrE-124" target="tX9U0qZX7yQvij5a4MrE-125">
-          <mxGeometry x="0.0471" y="6" relative="1" as="geometry">
-            <mxPoint x="707.25" y="1654.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-123" value="Connect Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-122">
-          <mxGeometry x="-0.1267" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-124" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1619" width="40.5" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-125" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="702.75" y="1614.5" width="69" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tX9U0qZX7yQvij5a4MrE-128" target="tX9U0qZX7yQvij5a4MrE-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-128" value="Sub GraphQL Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="677.25" y="2014.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tX9U0qZX7yQvij5a4MrE-128">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="737.25" y="2134.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-130" value="Subscription" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-129">
-          <mxGeometry x="-0.0867" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-131" value="Redis&lt;br&gt;Pub/Sub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="674.25" y="2130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tX9U0qZX7yQvij5a4MrE-134" target="tX9U0qZX7yQvij5a4MrE-131">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-133" value="Publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tX9U0qZX7yQvij5a4MrE-132">
-          <mxGeometry x="-0.0867" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="674.25" y="2250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-135" value="Grpc Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680.25" y="2256" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-136" value="&lt;font color=&quot;#f70202&quot;&gt;Is this correct?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="577" y="2090" width="162" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-137" value="&lt;font color=&quot;#f70202&quot;&gt;Is there persistent connection between federation gateway and graphql service?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="577" y="1940" width="162" height="50" as="geometry" />
+        <mxCell id="tX9U0qZX7yQvij5a4MrE-140" value="&lt;font color=&quot;#fa0000&quot;&gt;subscription still goes to ottergate-subscriptions?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433" y="1895" width="187" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
