@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T08:32:11.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qfeW7s41NdKzIVCEnL4G" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T09:09:50.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="04vUPU8vmp1arA8Pgpi6" version="22.1.12" type="github">
   <diagram name="Page-1" id="O8MPyl8DHrePYnAYMyPY">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,8 +169,8 @@
         <mxCell id="wBnL4PggBmM-haMTPlV1-55" value="Full sync workflow iterates all active/validate resource entities and fetch related resource attributes, update them to authz5 db.&amp;nbsp; &lt;br&gt;The workflow will insert new resources and new attribute key-value pair.&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="930" width="750" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wBnL4PggBmM-haMTPlV1-56" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Delete resources&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Delete resource attribute kv pair&lt;br&gt;- resource is deleted along with attribute kv&lt;br&gt;- resource is not deleted, the relationship is deleted (store licensee &amp;amp; org-brand)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="16" y="3428" width="564" height="90" as="geometry" />
+        <mxCell id="wBnL4PggBmM-haMTPlV1-56" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Delete resources with updated_at &amp;lt; timestamp&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="16" y="3428" width="564" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wBnL4PggBmM-haMTPlV1-62" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="94.82" y="1670.26" width="550.18" height="289.74" as="geometry" />
@@ -481,6 +481,25 @@
         </mxCell>
         <mxCell id="wBnL4PggBmM-haMTPlV1-223" value="&lt;b&gt;Source Services&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wBnL4PggBmM-haMTPlV1-258" value="AuthZ5Cp" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="493" y="3540" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wBnL4PggBmM-haMTPlV1-262" value="DeleteResourcesWithUpdatedAtBefore" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="wBnL4PggBmM-haMTPlV1-258" target="wBnL4PggBmM-haMTPlV1-264">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-179" y="85" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBnL4PggBmM-haMTPlV1-263" value="Result" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="wBnL4PggBmM-haMTPlV1-258" source="wBnL4PggBmM-haMTPlV1-264">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-179" y="137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBnL4PggBmM-haMTPlV1-264" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wBnL4PggBmM-haMTPlV1-258">
+          <mxGeometry x="46.5" y="80" width="10" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="wBnL4PggBmM-haMTPlV1-259" value="Cron Workflow" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="263" y="3540" width="100" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
