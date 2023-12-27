@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:51:50.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="I29SF-iaBr-yhk2DvOAx" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T06:54:13.486Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DFrZy7hoeW0FJLsLE7Rb" version="22.1.12" type="github">
   <diagram name="Page-1" id="O8MPyl8DHrePYnAYMyPY">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -600,6 +600,9 @@
             <mxPoint x="737" y="3072" as="sourcePoint" />
             <mxPoint x="790" y="3120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wBnL4PggBmM-haMTPlV1-197" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#fb0404&quot;&gt;attributes column is bytes type&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#fb0404&quot;&gt;It doesn&#39;t support search by attribute value.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#fb0404&quot;&gt;Have to wait full sync to update them.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="698" y="3130" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
