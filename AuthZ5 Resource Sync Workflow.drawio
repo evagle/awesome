@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T04:20:48.809Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mnFmORa65cHuwbXCWKn4" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T04:21:06.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZRtSkc6Q6z4rJHEzW8hD" version="22.1.12" type="github">
   <diagram name="Page-1" id="O8MPyl8DHrePYnAYMyPY">
-    <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1904" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
         <mxCell id="wBnL4PggBmM-haMTPlV1-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wBnL4PggBmM-haMTPlV1-25">
           <mxGeometry x="45" y="320" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wBnL4PggBmM-haMTPlV1-28" value="GetAllStoresStream" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="wBnL4PggBmM-haMTPlV1-23" target="wBnL4PggBmM-haMTPlV1-24">
+        <mxCell id="wBnL4PggBmM-haMTPlV1-28" value="GetAllXXXStream" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="wBnL4PggBmM-haMTPlV1-23" target="wBnL4PggBmM-haMTPlV1-24">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="140" y="1310" as="sourcePoint" />
             <mxPoint x="170" y="1310" as="targetPoint" />
@@ -123,6 +123,9 @@
             <mxPoint x="102.5" y="1400" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wBnL4PggBmM-haMTPlV1-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1518" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
