@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T04:52:30.768Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wynjS7FSwAJrk6F_tYoe" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T04:52:40.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pQH3mPm6wKms_D4Z1B8K" version="22.1.12" type="github">
   <diagram name="Page-1" id="O8MPyl8DHrePYnAYMyPY">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
           <mxGeometry x="50" y="2670" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBnL4PggBmM-haMTPlV1-55" value="Full sync workflow iterates all active/validate resource entities and fetch related resource attributes, update them to authz5 db.&amp;nbsp; &lt;br&gt;The workflow will insert new resources and new attribute key-value pair. But it won&#39;t delete staled resources nor resource attribute kv pair.&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="930" width="750" height="150" as="geometry" />
+          <mxGeometry x="50" y="930" width="750" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wBnL4PggBmM-haMTPlV1-56" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Delete resources&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="2710" width="200" height="30" as="geometry" />
