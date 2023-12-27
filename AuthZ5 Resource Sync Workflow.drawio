@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T09:10:06.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y_RTwq_LMpxBHc9E99GX" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T09:13:55.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SErtNj70-cW7U6n-Scmk" version="22.1.12" type="github">
   <diagram name="Page-1" id="O8MPyl8DHrePYnAYMyPY">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="wBnL4PggBmM-haMTPlV1-55" value="Full sync workflow iterates all active/validate resource entities and fetch related resource attributes, update them to authz5 db.&amp;nbsp; &lt;br&gt;The workflow will insert new resources and new attribute key-value pair.&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="930" width="750" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wBnL4PggBmM-haMTPlV1-56" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Delete resources with updated_at &amp;lt; timestamp&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wBnL4PggBmM-haMTPlV1-56" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Delete resources with updated_at &amp;lt; timestamp&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;updated_at should be updated in full sync workflow, no matter the attribute set changed or not, updated_at must be updated to now() during full sync.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="16" y="3428" width="564" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wBnL4PggBmM-haMTPlV1-62" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
