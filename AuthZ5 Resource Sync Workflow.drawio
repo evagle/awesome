@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T05:35:56.619Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lce-2nSkUXlh6ne6t3-S" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T05:36:14.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mn8B8FyqecA6NAs1cttq" version="22.1.12" type="github">
   <diagram name="Page-1" id="O8MPyl8DHrePYnAYMyPY">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wBnL4PggBmM-haMTPlV1-53" value="Fetch all attributes&amp;nbsp;set" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wBnL4PggBmM-haMTPlV1-52">
+        <mxCell id="wBnL4PggBmM-haMTPlV1-53" value="Fetch &lt;b&gt;all&lt;/b&gt; attributes&amp;nbsp;set" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wBnL4PggBmM-haMTPlV1-52">
           <mxGeometry x="0.2" relative="1" as="geometry">
             <mxPoint x="1" y="12" as="offset" />
           </mxGeometry>
@@ -129,7 +129,7 @@
             <mxPoint x="511" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wBnL4PggBmM-haMTPlV1-42" value="fetch resource attributes" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;" edge="1" target="wBnL4PggBmM-haMTPlV1-41" parent="1" source="wBnL4PggBmM-haMTPlV1-24">
+        <mxCell id="wBnL4PggBmM-haMTPlV1-42" value="fetch all attributes set" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;" edge="1" target="wBnL4PggBmM-haMTPlV1-41" parent="1" source="wBnL4PggBmM-haMTPlV1-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205" y="665" as="sourcePoint" />
           </mxGeometry>
