@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T04:16:50.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vF5Bc5tf3u9Rk-9s_h3k" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T04:17:29.858Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hWUJLL1XG667N-X9ptb1" version="22.1.15" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-99" value="Authorize Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="260" y="1110" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5v9PtPmOjyMPj9oWuLb4-101" value="user: uuid1&lt;br&gt;perm_action: organization::read&lt;br&gt;resource: (&lt;br&gt;ResourceType: organization,&lt;br&gt;ResourceId: org1)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-101" value="principal: uuid1&lt;br&gt;Permission: organization::read&lt;br&gt;resource: (&lt;br&gt;ResourceType: organization,&lt;br&gt;ResourceId: org1)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="1220" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5v9PtPmOjyMPj9oWuLb4-103" target="5v9PtPmOjyMPj9oWuLb4-106">
