@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T04:17:29.858Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hWUJLL1XG667N-X9ptb1" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T04:20:49.016Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="T8OhjYVW2hWm0M28rg6f" version="22.1.15" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -336,6 +336,9 @@
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-106" value="merge attributes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5v9PtPmOjyMPj9oWuLb4-108" target="5v9PtPmOjyMPj9oWuLb4-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-108" value="Iterate all policies" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -347,6 +350,37 @@
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-115" value="Description: A simple policy&lt;br&gt;Conditions: [&lt;br&gt;&amp;nbsp;&amp;nbsp;contextMatchesAttribute(context::ResourceType, attribute::ResourceType)&lt;br&gt;&amp;nbsp; contextMatchesAttribute(context::ResourceId, attribute::ResourceId)&lt;br&gt;&amp;nbsp; contextMatchesAttribute(context::Permission&lt;br&gt;,attribute::Permission)&lt;br&gt;&amp;nbsp; &lt;br&gt;may also have&lt;br&gt;&amp;nbsp;&amp;nbsp;contextMatchesValue()&lt;br&gt;&amp;nbsp;&amp;nbsp;attributeMatchesValue()&lt;br&gt;&amp;nbsp; ect...&lt;br&gt;]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="1670" width="310" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5v9PtPmOjyMPj9oWuLb4-118" target="5v9PtPmOjyMPj9oWuLb4-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-118" value="Auth Check&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tuple(policy,&lt;br&gt;attributes,&lt;br&gt;context)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5v9PtPmOjyMPj9oWuLb4-122" target="5v9PtPmOjyMPj9oWuLb4-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-128" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5v9PtPmOjyMPj9oWuLb4-125">
+          <mxGeometry x="-0.6067" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5v9PtPmOjyMPj9oWuLb4-122" target="5v9PtPmOjyMPj9oWuLb4-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-129" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5v9PtPmOjyMPj9oWuLb4-127">
+          <mxGeometry x="0.095" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-122" value="Anyof ture" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-124" value="True" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-126" value="False" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2010" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
