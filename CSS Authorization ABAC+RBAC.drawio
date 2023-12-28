@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T04:20:49.016Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="T8OhjYVW2hWm0M28rg6f" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T04:25:29.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GWqOVuGqZNb4NsHt_sws" version="22.1.15" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -316,7 +316,7 @@
           <mxGeometry x="100" y="1220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-99" value="Authorize Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1110" width="310" height="30" as="geometry" />
+          <mxGeometry x="230" y="1130" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-101" value="principal: uuid1&lt;br&gt;Permission: organization::read&lt;br&gt;resource: (&lt;br&gt;ResourceType: organization,&lt;br&gt;ResourceId: org1)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="1220" width="250" height="110" as="geometry" />
@@ -381,6 +381,9 @@
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-126" value="False" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-130" value="Kitchen Auth Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2270" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
