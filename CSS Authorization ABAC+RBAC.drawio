@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T05:48:23.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nUSa2mHSMPmj-m89Jr2o" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T05:48:55.163Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xA-9uxKNv5ihig_OcqN_" version="22.1.15" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
     <mxGraphModel dx="1677" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5v9PtPmOjyMPj9oWuLb4-137" target="5v9PtPmOjyMPj9oWuLb4-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5v9PtPmOjyMPj9oWuLb4-137" value="KitchenAuth" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-137" value="KitchenAuth:&lt;br&gt;hasStoreReadAccess" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="217" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-139" value="return kitchenAuth.hasStoreReadAccessAsync(ids);" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
