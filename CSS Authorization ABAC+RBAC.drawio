@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T07:03:14.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cgbApG8GL4t-VWj4abVF" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T07:03:27.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="O-ufCiXtGCScI5ZdYUNO" version="22.1.15" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
     <mxGraphModel dx="2318" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -529,13 +529,13 @@
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5v9PtPmOjyMPj9oWuLb4-184" target="5v9PtPmOjyMPj9oWuLb4-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5v9PtPmOjyMPj9oWuLb4-186" value="storeId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5v9PtPmOjyMPj9oWuLb4-185">
+        <mxCell id="5v9PtPmOjyMPj9oWuLb4-186" value="getStore" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5v9PtPmOjyMPj9oWuLb4-185">
           <mxGeometry x="0.5234" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-184" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="208" y="4650" width="30" height="50" as="geometry" />
+          <mxGeometry x="287" y="4640" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-187" value="AuthZ5-Data plane&lt;br&gt;AuthorizeApi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="266.5" y="4920" width="120" height="60" as="geometry" />
