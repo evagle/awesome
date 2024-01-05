@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T07:35:25.631Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sEj9QXa24pBM8Mq8CV-s" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T07:35:49.016Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g6Cto6URqGNNCZHVhFsP" version="22.1.16" type="github">
   <diagram name="Page-1" id="IQmFI2vmxPtZUQ9oKcdF">
     <mxGraphModel dx="938" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
         <mxCell id="-PxYoWHsA5pN7jv7AzU3-58" value="StoreQueryRpc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-PxYoWHsA5pN7jv7AzU3-59" value="InvoiceQueryRpc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-PxYoWHsA5pN7jv7AzU3-59" value="UserQueryRpc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-PxYoWHsA5pN7jv7AzU3-60" value="GeneralQueryRpc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
