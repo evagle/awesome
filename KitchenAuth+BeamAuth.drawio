@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T12:33:54.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NMZQeXJ9ARsJKxSNjd2Y" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T12:38:02.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="g9dZAIhEMPCXEO-SmRb_" version="23.1.1" type="github">
   <diagram name="Page-1" id="SZ85hrHEJdvXRmAmFtXn">
     <mxGraphModel dx="776" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,17 +190,23 @@
         <mxCell id="W5UCEF_RRDmbueloPfdi-57" value="BeamIntent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W5UCEF_RRDmbueloPfdi-60" value="project::read&lt;br&gt;project::team::read&lt;br&gt;project::approvals::read" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="W5UCEF_RRDmbueloPfdi-60" value="project::read&lt;br&gt;project::team::read&lt;br&gt;project::approvals::read" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="2340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W5UCEF_RRDmbueloPfdi-61" value="project::read::intent" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="W5UCEF_RRDmbueloPfdi-61" value="project::read::intent" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="2340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W5UCEF_RRDmbueloPfdi-62" value="project::read" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="W5UCEF_RRDmbueloPfdi-62" value="project::read" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="2430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W5UCEF_RRDmbueloPfdi-63" value="project::read::intent&lt;br&gt;project::create::intent" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="W5UCEF_RRDmbueloPfdi-63" value="project::read::intent&lt;br&gt;project::create::intent" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="2430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-64" value="Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-65" value="&amp;lt;General Manager&amp;gt;&lt;br&gt;namespace:beam&lt;br&gt;ProjectReadIntent:&lt;br&gt;project::read&lt;br&gt;ProjectReadIntent:&lt;br&gt;project::team::read&lt;br&gt;ProjectReadIntent:&lt;br&gt;project::approvals::read" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2340" width="120" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
