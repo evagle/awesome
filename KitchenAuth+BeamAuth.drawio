@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T12:07:15.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8-UK2bdbZQ0TcsRqMj36" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T12:13:52.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4_B3km1Ug2m7diR4gV0f" version="23.1.1" type="github">
   <diagram name="Page-1" id="SZ85hrHEJdvXRmAmFtXn">
     <mxGraphModel dx="776" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,8 +63,8 @@
         <mxCell id="W5UCEF_RRDmbueloPfdi-20" value="Read Path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W5UCEF_RRDmbueloPfdi-21" value="Write Path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1170" width="60" height="30" as="geometry" />
+        <mxCell id="W5UCEF_RRDmbueloPfdi-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Write Path&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1180" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W5UCEF_RRDmbueloPfdi-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DB Model&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="970" width="180" height="30" as="geometry" />
@@ -90,6 +90,39 @@
         </mxCell>
         <mxCell id="W5UCEF_RRDmbueloPfdi-28" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="185" y="1430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1610" as="sourcePoint" />
+            <mxPoint x="520" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-37" value="GetAssociatedGroups" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5UCEF_RRDmbueloPfdi-36">
+          <mxGeometry x="0.0173" y="5" relative="1" as="geometry">
+            <mxPoint x="-2" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W5UCEF_RRDmbueloPfdi-33" target="W5UCEF_RRDmbueloPfdi-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-39" value="GetManagedGroup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5UCEF_RRDmbueloPfdi-38">
+          <mxGeometry x="-0.116" y="2" relative="1" as="geometry">
+            <mxPoint x="5" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5UCEF_RRDmbueloPfdi-33" target="W5UCEF_RRDmbueloPfdi-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-41" value="UpdateManagedGoup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5UCEF_RRDmbueloPfdi-40">
+          <mxGeometry x="-0.2633" y="-2" relative="1" as="geometry">
+            <mxPoint x="23" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-33" value="SyncRulesEngineManagedGroupsWorkflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1590" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-35" value="Authz5Cp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1590" width="130" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
