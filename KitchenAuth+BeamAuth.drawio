@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T08:14:56.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ncdMXxGj47UqTFnapwWt" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T08:15:50.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="MYGYSRiB-iO-gbw3u0bb" version="23.1.1" type="github">
   <diagram name="Page-1" id="SZ85hrHEJdvXRmAmFtXn">
     <mxGraphModel dx="776" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,6 +59,12 @@
         </mxCell>
         <mxCell id="W5UCEF_RRDmbueloPfdi-19" value="KitchenAuthLib" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-20" value="Read Path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-21" value="Write Path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
