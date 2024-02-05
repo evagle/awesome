@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T08:12:19.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="hJfEwqmfxD0ZaZKD2xX-" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T08:12:27.709Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VWN6Jfs3fQS7WEw9IQHw" version="23.1.1" type="github">
   <diagram name="Page-1" id="SZ85hrHEJdvXRmAmFtXn">
     <mxGraphModel dx="776" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,9 +46,9 @@
         <mxCell id="W5UCEF_RRDmbueloPfdi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5UCEF_RRDmbueloPfdi-14" target="W5UCEF_RRDmbueloPfdi-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W5UCEF_RRDmbueloPfdi-18" value="AuthorizeApi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5UCEF_RRDmbueloPfdi-17">
+        <mxCell id="W5UCEF_RRDmbueloPfdi-18" value="Authorize" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5UCEF_RRDmbueloPfdi-17">
           <mxGeometry x="-0.1672" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W5UCEF_RRDmbueloPfdi-14" value="AuthorizationClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
