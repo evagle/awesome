@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:36:03.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="66n4c4lc2DZfSCeu2P58" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:38:42.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fXL6Rfzak2TijJwPifcl" version="23.1.1" type="github">
   <diagram name="Page-1" id="O8MPyl8DHrePYnAYMyPY">
     <mxGraphModel dx="2365" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -693,6 +693,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oTqXTfDeD2ap8h2SjaBv-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTqXTfDeD2ap8h2SjaBv-77" target="oTqXTfDeD2ap8h2SjaBv-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oTqXTfDeD2ap8h2SjaBv-77" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="160" width="333" height="230" as="geometry" />
         </mxCell>
@@ -711,14 +714,29 @@
         <mxCell id="oTqXTfDeD2ap8h2SjaBv-82" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;......&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1134.5" y="305" width="41" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oTqXTfDeD2ap8h2SjaBv-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oTqXTfDeD2ap8h2SjaBv-83" target="oTqXTfDeD2ap8h2SjaBv-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oTqXTfDeD2ap8h2SjaBv-83" value="KEQ2&lt;br&gt;Entity Update Event" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="230" width="160" height="30" as="geometry" />
+          <mxGeometry x="1330" y="250" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oTqXTfDeD2ap8h2SjaBv-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTqXTfDeD2ap8h2SjaBv-99" target="oTqXTfDeD2ap8h2SjaBv-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oTqXTfDeD2ap8h2SjaBv-99" value="Auth Resource Sync&lt;br&gt;Cron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1036.5" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oTqXTfDeD2ap8h2SjaBv-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTqXTfDeD2ap8h2SjaBv-100" target="oTqXTfDeD2ap8h2SjaBv-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oTqXTfDeD2ap8h2SjaBv-100" value="Auth Resource Sync&lt;br&gt;Event Consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTqXTfDeD2ap8h2SjaBv-108" value="Auth Resource Sync&lt;br&gt;Hydration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTqXTfDeD2ap8h2SjaBv-111" value="AuthZ5 Cp&lt;br&gt;Resource Apis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
