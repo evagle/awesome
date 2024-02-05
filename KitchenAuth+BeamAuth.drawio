@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T12:38:02.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="g9dZAIhEMPCXEO-SmRb_" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T12:39:54.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Qwl5MRe4mnJv04Vh22Mq" version="23.1.1" type="github">
   <diagram name="Page-1" id="SZ85hrHEJdvXRmAmFtXn">
     <mxGraphModel dx="776" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,6 +187,14 @@
         <mxCell id="W5UCEF_RRDmbueloPfdi-56" value="BeamOperation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5UCEF_RRDmbueloPfdi-57" target="W5UCEF_RRDmbueloPfdi-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-67" value="n:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5UCEF_RRDmbueloPfdi-66">
+          <mxGeometry x="0.2289" y="2" relative="1" as="geometry">
+            <mxPoint x="-13" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="W5UCEF_RRDmbueloPfdi-57" value="BeamIntent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -207,6 +215,20 @@
         </mxCell>
         <mxCell id="W5UCEF_RRDmbueloPfdi-65" value="&amp;lt;General Manager&amp;gt;&lt;br&gt;namespace:beam&lt;br&gt;ProjectReadIntent:&lt;br&gt;project::read&lt;br&gt;ProjectReadIntent:&lt;br&gt;project::team::read&lt;br&gt;ProjectReadIntent:&lt;br&gt;project::approvals::read" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="510" y="2340" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5UCEF_RRDmbueloPfdi-68" target="W5UCEF_RRDmbueloPfdi-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-70" value="member of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5UCEF_RRDmbueloPfdi-69">
+          <mxGeometry x="0.2282" y="-4" relative="1" as="geometry">
+            <mxPoint x="13" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-68" value="Principal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UCEF_RRDmbueloPfdi-71" value="n:n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2266" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
