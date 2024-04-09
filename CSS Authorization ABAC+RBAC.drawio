@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T08:49:47.603Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iWYA85_3JroG0G9mh2jz" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T08:53:00.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GL8Qxzn71g_7wNRJnUPn" version="24.2.2" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
     <mxGraphModel dx="2202" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -688,7 +688,7 @@
           <mxGeometry x="90" y="6010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-23" value="AuthZ5&lt;br&gt;Data Plane" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="720.0000000000001" y="6710" width="120" height="60" as="geometry" />
+          <mxGeometry x="567.5000000000001" y="6710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-24" target="gKebIImFh-ZQM33xnNgw-26">
           <mxGeometry relative="1" as="geometry" />
@@ -701,27 +701,27 @@
         <mxCell id="gKebIImFh-ZQM33xnNgw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-33" target="gKebIImFh-ZQM33xnNgw-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-41" value="Do auth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKebIImFh-ZQM33xnNgw-29">
+        <mxCell id="gKebIImFh-ZQM33xnNgw-41" value="authorziation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKebIImFh-ZQM33xnNgw-29">
           <mxGeometry x="-0.0667" y="3" relative="1" as="geometry">
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-24" value="Api Gateway" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="299" y="6710" width="120" height="60" as="geometry" />
+          <mxGeometry x="146.5" y="6710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-26" value="Downstream&lt;br&gt;Grpc Services" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="299" y="6850" width="120" height="60" as="geometry" />
+          <mxGeometry x="146.5" y="6850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-31" target="gKebIImFh-ZQM33xnNgw-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-31" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="299" y="6590" width="120" height="60" as="geometry" />
+          <mxGeometry x="146.5" y="6590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-24" target="gKebIImFh-ZQM33xnNgw-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="419" y="6740" as="sourcePoint" />
-            <mxPoint x="772" y="6740" as="targetPoint" />
+            <mxPoint x="266.5" y="6740" as="sourcePoint" />
+            <mxPoint x="619.5" y="6740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-35" value="Centralize Auth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKebIImFh-ZQM33xnNgw-34">
@@ -732,16 +732,16 @@
         <mxCell id="gKebIImFh-ZQM33xnNgw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-33" target="gKebIImFh-ZQM33xnNgw-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-40" value="Fetch resource data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKebIImFh-ZQM33xnNgw-39">
+        <mxCell id="gKebIImFh-ZQM33xnNgw-40" value="fetch resource data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKebIImFh-ZQM33xnNgw-39">
           <mxGeometry x="-0.2375" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-33" value="Auth Library" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="6710" width="120" height="60" as="geometry" />
+          <mxGeometry x="357.5" y="6710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-38" value="Resource SOT&lt;div&gt;Services&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="6850" width="120" height="60" as="geometry" />
+          <mxGeometry x="357.5" y="6850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
