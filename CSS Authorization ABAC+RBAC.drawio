@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T07:54:40.016Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1NsvWHAYCEFTVLGeAx6S" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T07:54:51.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XNGfaKYXZJ9ThDGClA7F" version="24.2.2" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
     <mxGraphModel dx="698" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -630,7 +630,7 @@
         <mxCell id="gKebIImFh-ZQM33xnNgw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-1" target="gKebIImFh-ZQM33xnNgw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-1" value="Clients&lt;br&gt;internal services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gKebIImFh-ZQM33xnNgw-1" value="Grpc Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="5880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-5" target="gKebIImFh-ZQM33xnNgw-7">
