@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T08:53:00.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GL8Qxzn71g_7wNRJnUPn" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T10:14:46.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sZkz95Kkcne8KXrL3frF" version="24.2.2" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
-    <mxGraphModel dx="2202" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -627,12 +627,6 @@
         <mxCell id="XJikimPC2K_oGURFkx9K-9" value="&lt;font color=&quot;#0040ff&quot;&gt;Resources&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="231" y="5682" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-1" target="gKebIImFh-ZQM33xnNgw-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-1" value="Internal Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="5880" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-5" target="gKebIImFh-ZQM33xnNgw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -649,6 +643,9 @@
           <mxGeometry x="-0.073" y="2" relative="1" as="geometry">
             <mxPoint x="4" y="-18" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-7" target="gKebIImFh-ZQM33xnNgw-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-7" value="AuthZ5&lt;br&gt;Control Plane" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="6140" width="120" height="60" as="geometry" />
@@ -679,13 +676,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-19" value="ChangeLog&lt;div&gt;DB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="269" y="6370" width="84" height="80" as="geometry" />
+          <mxGeometry x="180" y="6290" width="84" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-21" target="gKebIImFh-ZQM33xnNgw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-21" value="Other Grpc Services" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="6010" width="120" height="60" as="geometry" />
+        <mxCell id="gKebIImFh-ZQM33xnNgw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-21" target="gKebIImFh-ZQM33xnNgw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-21" value="Clients&lt;br&gt;Internal Services" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="6077" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-23" value="AuthZ5&lt;br&gt;Data Plane" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="567.5000000000001" y="6710" width="120" height="60" as="geometry" />
