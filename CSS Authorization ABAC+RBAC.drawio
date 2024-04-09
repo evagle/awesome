@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T10:17:01.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="quuxubYAwqjxOwzpa4rA" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T07:47:21.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yEpwHqZXfJIWjRUumBQH" version="24.2.2" type="github">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
-    <mxGraphModel dx="853" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XJikimPC2K_oGURFkx9K-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XJikimPC2K_oGURFkx9K-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="90" y="5370" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-1" value="Principal" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
@@ -606,26 +606,50 @@
         <mxCell id="5v9PtPmOjyMPj9oWuLb4-206" value="Onboarding Workflow" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="4790" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XJikimPC2K_oGURFkx9K-1" value="Users&lt;br&gt;System Accounts" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XJikimPC2K_oGURFkx9K-1" value="Users&lt;br&gt;System Accounts" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="140" y="5390" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="XJikimPC2K_oGURFkx9K-2" value="&lt;font color=&quot;#0040ff&quot;&gt;Principal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XJikimPC2K_oGURFkx9K-2" value="&lt;font color=&quot;#0040ff&quot;&gt;Principal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="199" y="5554" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XJikimPC2K_oGURFkx9K-3" value="&lt;div&gt;Principal&lt;br&gt;Attributes&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XJikimPC2K_oGURFkx9K-3" value="&lt;div&gt;Principal&lt;br&gt;Attributes&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="225" y="5410" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XJikimPC2K_oGURFkx9K-4" value="Policy" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XJikimPC2K_oGURFkx9K-4" value="Policy" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="325" y="5480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XJikimPC2K_oGURFkx9K-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Biz&lt;br&gt;Resources&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XJikimPC2K_oGURFkx9K-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Biz&lt;br&gt;Resources&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="279" y="5570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XJikimPC2K_oGURFkx9K-8" value="&lt;div&gt;Resouce&lt;br&gt;Attributes&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XJikimPC2K_oGURFkx9K-8" value="&lt;div&gt;Resouce&lt;br&gt;Attributes&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="174.23" y="5620" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XJikimPC2K_oGURFkx9K-9" value="&lt;font color=&quot;#0040ff&quot;&gt;Resources&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XJikimPC2K_oGURFkx9K-9" value="&lt;font color=&quot;#0040ff&quot;&gt;Resources&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="231" y="5682" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-1" target="gKebIImFh-ZQM33xnNgw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-1" value="Clients&lt;br&gt;internal services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="5880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-5" target="gKebIImFh-ZQM33xnNgw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-5" value="Auth Role Management Service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="6010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-7" target="gKebIImFh-ZQM33xnNgw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-7" value="AuthZ5&lt;br&gt;Control Plane" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="6140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-8" value="AuthZ5&lt;br&gt;Data Plane" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="6140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-9" value="CRDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="271" y="6280" width="84" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
