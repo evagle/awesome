@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T04:25:59.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VlTGudxIOUduPYbSZoTP" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T05:53:36.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gqguBZzx51KCIaL5eRnV" version="24.2.3" type="github">
   <diagram name="Page-1" id="4lHo2-_yg5zYZl-CJrND">
-    <mxGraphModel dx="914" dy="1128" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="922" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,9 +39,9 @@
         <mxCell id="boQJw60juDwdy5Vu37vn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="boQJw60juDwdy5Vu37vn-7" target="boQJw60juDwdy5Vu37vn-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="boQJw60juDwdy5Vu37vn-17" value="拿到预售证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boQJw60juDwdy5Vu37vn-16">
+        <mxCell id="boQJw60juDwdy5Vu37vn-17" value="部分新拿预售证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boQJw60juDwdy5Vu37vn-16">
           <mxGeometry x="-0.3158" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="boQJw60juDwdy5Vu37vn-7" value="在建面积&lt;br&gt;79.6万m2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -88,13 +88,13 @@
         <mxCell id="boQJw60juDwdy5Vu37vn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="boQJw60juDwdy5Vu37vn-27" target="boQJw60juDwdy5Vu37vn-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="boQJw60juDwdy5Vu37vn-27" value="现售面积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="boQJw60juDwdy5Vu37vn-27" value="现售面积&lt;div&gt;~0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="boQJw60juDwdy5Vu37vn-28" value="当前总销售面积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="boQJw60juDwdy5Vu37vn-28" value="当前总销售面积&lt;br&gt;~39.6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="boQJw60juDwdy5Vu37vn-36" value="结转到下期面积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="boQJw60juDwdy5Vu37vn-36" value="结转到下期面积&lt;br&gt;~31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="789" y="902" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
