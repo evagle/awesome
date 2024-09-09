@@ -687,38 +687,27 @@
         <mxCell id="gKebIImFh-ZQM33xnNgw-21" value="Clients&lt;br&gt;Internal Services" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="71" y="6077" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-23" value="AuthZ5&lt;br&gt;Data Plane" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="567.5000000000001" y="6710" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gKebIImFh-ZQM33xnNgw-24" target="gKebIImFh-ZQM33xnNgw-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-28" value="Auth passed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKebIImFh-ZQM33xnNgw-27" vertex="1" connectable="0">
           <mxGeometry x="-0.3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gKebIImFh-ZQM33xnNgw-33" target="gKebIImFh-ZQM33xnNgw-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-41" value="authorziation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKebIImFh-ZQM33xnNgw-29" vertex="1" connectable="0">
-          <mxGeometry x="-0.0667" y="3" relative="1" as="geometry">
-            <mxPoint y="-7" as="offset" />
+            <mxPoint x="14" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-24" value="Api Gateway" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="146.5" y="6710" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="5939" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-26" value="Downstream&lt;br&gt;Grpc Services" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="146.5" y="6850" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="5939" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gKebIImFh-ZQM33xnNgw-31" target="gKebIImFh-ZQM33xnNgw-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-31" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="146.5" y="6590" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="5841" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gKebIImFh-ZQM33xnNgw-24" target="gKebIImFh-ZQM33xnNgw-33" edge="1">
+        <mxCell id="gKebIImFh-ZQM33xnNgw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gKebIImFh-ZQM33xnNgw-24" target="gKebIImFh-ZQM33xnNgw-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="266.5" y="6740" as="sourcePoint" />
             <mxPoint x="619.5" y="6740" as="targetPoint" />
@@ -729,19 +718,22 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gKebIImFh-ZQM33xnNgw-33" target="gKebIImFh-ZQM33xnNgw-38" edge="1">
+        <mxCell id="gKebIImFh-ZQM33xnNgw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gKebIImFh-ZQM33xnNgw-33" target="gKebIImFh-ZQM33xnNgw-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-40" value="fetch resource data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKebIImFh-ZQM33xnNgw-39" vertex="1" connectable="0">
           <mxGeometry x="-0.2375" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="12" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-33" value="Auth Library" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="357.5" y="6710" width="120" height="60" as="geometry" />
+        <mxCell id="InWKgf-U8V8Ll13gaiFN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-33" target="gKebIImFh-ZQM33xnNgw-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gKebIImFh-ZQM33xnNgw-38" value="Resource SOT&lt;div&gt;Services&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="357.5" y="6850" width="120" height="60" as="geometry" />
+        <mxCell id="gKebIImFh-ZQM33xnNgw-33" value="Auth Library" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="6047" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKebIImFh-ZQM33xnNgw-38" value="Downstream&lt;br&gt;Grpc Services" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="781" y="6047" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="InWKgf-U8V8Ll13gaiFN-1" value="AuthZ5&lt;br&gt;Workflows" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="6380" width="120" height="60" as="geometry" />
