@@ -665,7 +665,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-13" value="Cloud Bucket" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="528" y="6256" width="84" height="80" as="geometry" />
+          <mxGeometry x="528" y="6248" width="84" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="InWKgf-U8V8Ll13gaiFN-2" target="InWKgf-U8V8Ll13gaiFN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
