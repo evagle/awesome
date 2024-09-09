@@ -757,6 +757,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="InWKgf-U8V8Ll13gaiFN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="InWKgf-U8V8Ll13gaiFN-7" target="InWKgf-U8V8Ll13gaiFN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="InWKgf-U8V8Ll13gaiFN-9" value="Every minute" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="InWKgf-U8V8Ll13gaiFN-8">
+          <mxGeometry x="0.1171" y="-6" relative="1" as="geometry">
+            <mxPoint x="3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InWKgf-U8V8Ll13gaiFN-7" value="LDAP&lt;br&gt;Employees" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="741" y="6380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
