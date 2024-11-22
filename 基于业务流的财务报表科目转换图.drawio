@@ -163,6 +163,14 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-60" value="厂房设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="490" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-61" target="PDw0ZhWUSigSXVAjHn8G-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-90" value="生产" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-89">
+          <mxGeometry x="0.08" y="3" relative="1" as="geometry">
+            <mxPoint x="-4" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-61" value="生产活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="415" width="80" height="40" as="geometry" />
         </mxCell>
@@ -249,6 +257,12 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-82" value="工程物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-88" value="存货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="415" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-93" value="存货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="410" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
