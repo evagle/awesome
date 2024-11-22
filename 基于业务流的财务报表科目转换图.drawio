@@ -59,8 +59,8 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-22" value="开发完成" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-18" target="PDw0ZhWUSigSXVAjHn8G-19">
           <mxGeometry y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="260" />
-              <mxPoint x="490" y="260" />
+              <mxPoint x="450" y="270" />
+              <mxPoint x="450" y="270" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-19" value="无形资产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="498" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="498" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-23" value="资产减值损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="740" width="80" height="40" as="geometry" />
