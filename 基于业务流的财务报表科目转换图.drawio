@@ -16,6 +16,12 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-182" value="应收款项融资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-191">
           <mxGeometry x="547.1875" y="166" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-194" value="开发支出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-191">
+          <mxGeometry x="67.1875" y="166" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-82" value="工程物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-191">
+          <mxGeometry x="147.1875" y="86" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-183" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="638" y="1730" width="350" height="240" as="geometry" />
         </mxCell>
@@ -185,7 +191,7 @@
           <mxGeometry x="330" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-64" value="无形资产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1275" width="80" height="40" as="geometry" />
+          <mxGeometry x="330" y="1276" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-66" value="货币资金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="1355" width="80" height="40" as="geometry" />
@@ -222,11 +228,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-77" target="PDw0ZhWUSigSXVAjHn8G-155">
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-200" target="PDw0ZhWUSigSXVAjHn8G-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-77" value="固定资产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1195" width="80" height="40" as="geometry" />
+          <mxGeometry x="330" y="1196" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#099f0c;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-84">
           <mxGeometry relative="1" as="geometry">
@@ -259,13 +265,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-83" value="使用权资产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1235" width="80" height="40" as="geometry" />
+          <mxGeometry x="330" y="1236" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-84" value="生产性生物资产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1355" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-82" value="工程物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1315" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0081fa;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-88" target="PDw0ZhWUSigSXVAjHn8G-144">
           <mxGeometry relative="1" as="geometry">
@@ -346,7 +349,7 @@
           <mxGeometry x="840" y="1815" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-155" value="减值" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="605" y="1190" width="50" height="50" as="geometry" />
+          <mxGeometry x="605" y="1191" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0081fa;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-148" target="PDw0ZhWUSigSXVAjHn8G-61">
           <mxGeometry relative="1" as="geometry">
@@ -410,6 +413,15 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-192" value="长期应收款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1276" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-77" target="PDw0ZhWUSigSXVAjHn8G-200">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1215" as="sourcePoint" />
+            <mxPoint x="605" y="1215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-200" value="长期待摊费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1196" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
