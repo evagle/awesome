@@ -4,35 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-163" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="1750" width="560" height="300" as="geometry" />
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-183" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="638" y="1730" width="350" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-161" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-163">
-          <mxGeometry x="40" y="-20" width="437.5" height="300" as="geometry" />
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-161" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-183">
+          <mxGeometry width="350" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-162" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;利润表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-163">
-          <mxGeometry x="221.25" y="-10" width="75" height="27.27" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-170" value="财务费用-&lt;br&gt;利息费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-163">
-          <mxGeometry x="160" y="130" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-107" value="营业收入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-163">
-          <mxGeometry x="160" y="65" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-179" value="营业成本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-163">
-          <mxGeometry x="270" y="130" width="80" height="40" as="geometry" />
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-162" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;利润表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-183">
+          <mxGeometry x="145.00000000000003" y="8" width="60.00000000000001" height="21.815999999999995" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-167" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="1731" width="450" height="230" as="geometry" />
+          <mxGeometry x="150" y="1731" width="440" height="229" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-168" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-167">
-          <mxGeometry x="35.15625" width="351.5625" height="230" as="geometry" />
+          <mxGeometry x="34.375" width="343.75" height="229" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-169" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;资产负债表-负债端&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-167">
-          <mxGeometry x="136.73297872340424" y="8.846153846153847" width="163.80957446808512" height="20.912307692307696" as="geometry" />
+          <mxGeometry x="133.69446808510637" y="8.807692307692308" width="160.16936170212767" height="20.82138461538462" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-68" value="短期借款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-167">
-          <mxGeometry x="180" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="69.7" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-164" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="185" y="1190" width="830" height="350" as="geometry" />
@@ -345,7 +336,7 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-144" target="PDw0ZhWUSigSXVAjHn8G-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-144" target="PDw0ZhWUSigSXVAjHn8G-179">
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ff0000;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-144" target="PDw0ZhWUSigSXVAjHn8G-179">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="1430" />
@@ -404,6 +395,15 @@
           <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
             <mxPoint x="2" y="-9" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-170" value="财务费用-&lt;br&gt;利息费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-107" value="营业收入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1815" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-179" value="营业成本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1880" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
