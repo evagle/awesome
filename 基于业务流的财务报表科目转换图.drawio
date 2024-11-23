@@ -303,7 +303,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-146" value="产品成本计入存货" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-145">
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-146" value="成本计入&lt;br&gt;存货科目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-145">
           <mxGeometry x="-0.278" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
