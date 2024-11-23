@@ -184,14 +184,6 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-60" value="生产人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1535" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-61" target="PDw0ZhWUSigSXVAjHn8G-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-90" value="生产" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-89">
-          <mxGeometry x="0.08" y="3" relative="1" as="geometry">
-            <mxPoint x="-4" y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-61" value="生产活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="1460" width="80" height="40" as="geometry" />
         </mxCell>
@@ -288,14 +280,6 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-82" value="工程物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1215" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-88" target="PDw0ZhWUSigSXVAjHn8G-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-97" value="销售" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-96">
-          <mxGeometry x="0.0429" y="-2" relative="1" as="geometry">
-            <mxPoint y="-17" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-88" target="PDw0ZhWUSigSXVAjHn8G-144">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -391,6 +375,36 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="1505" as="sourcePoint" />
             <mxPoint x="580" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0081fa;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-61" target="PDw0ZhWUSigSXVAjHn8G-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1450" as="sourcePoint" />
+            <mxPoint x="580" y="1490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="1480" />
+              <mxPoint x="700" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-176" value="生产" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-175">
+          <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0081fa;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-88" target="PDw0ZhWUSigSXVAjHn8G-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1520" as="sourcePoint" />
+            <mxPoint x="950" y="1520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="1480" />
+              <mxPoint x="900" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-178" value="销售" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-177">
+          <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
