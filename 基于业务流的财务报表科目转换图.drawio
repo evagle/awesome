@@ -166,7 +166,7 @@
           <mxGeometry x="310" y="1180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-66" value="货币资金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1220" width="80" height="40" as="geometry" />
+          <mxGeometry x="470" y="1260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-67" value="应付债券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1260" width="80" height="40" as="geometry" />
@@ -276,7 +276,7 @@
             <mxPoint x="-127" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-104" value="现金销售" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-101">
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-104" value="现付" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-101">
           <mxGeometry x="-0.0303" y="-2" relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
