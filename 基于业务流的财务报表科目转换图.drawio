@@ -199,7 +199,7 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-68" value="短期借款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="571" y="1710" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-69" target="PDw0ZhWUSigSXVAjHn8G-170">
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#ff0000;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-69" target="PDw0ZhWUSigSXVAjHn8G-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-69" value="长期借款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
