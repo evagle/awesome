@@ -4,26 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-165" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1150" width="721.25" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-168" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1731" width="410.01" height="229" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-191" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="262.8125" y="1150" width="648.4375" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-165" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-191">
-          <mxGeometry width="648.4375" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-166" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;资产负债表-资产端&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-191">
-          <mxGeometry x="245.77749999999997" y="8" width="156.88" height="31.82" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-182" value="应收款项融资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-191">
-          <mxGeometry x="547.1875" y="166" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-194" value="开发支出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-191">
-          <mxGeometry x="67.1875" y="166" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-82" value="工程物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDw0ZhWUSigSXVAjHn8G-191">
-          <mxGeometry x="147.1875" y="86" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-183" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="638" y="1730" width="350" height="240" as="geometry" />
@@ -451,6 +436,29 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-210" value="有息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="413" y="1769.7" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-211" target="PDw0ZhWUSigSXVAjHn8G-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-213" value="转固" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-212">
+          <mxGeometry x="0.1326" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-211" value="在建工程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1196" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-166" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;资产负债表-资产端&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="508.59" y="1158" width="156.88" height="31.82" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-182" value="应收款项融资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1316" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-194" value="开发支出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1316" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-82" value="工程物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1236" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
