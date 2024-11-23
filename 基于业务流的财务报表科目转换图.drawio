@@ -222,7 +222,7 @@
             <mxPoint x="-30" y="1525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0081fa;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-60" target="PDw0ZhWUSigSXVAjHn8G-61">
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0081fa;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-60" target="PDw0ZhWUSigSXVAjHn8G-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="1490" as="sourcePoint" />
             <mxPoint x="580" y="1490" as="targetPoint" />
@@ -368,9 +368,6 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-144" value="存货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="1255" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-148" target="PDw0ZhWUSigSXVAjHn8G-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-148" value="原材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1420" width="80" height="40" as="geometry" />
         </mxCell>
@@ -388,6 +385,12 @@
             <mxPoint x="611" y="1710" as="sourcePoint" />
             <mxPoint x="610" y="1500" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0081fa;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-148" target="PDw0ZhWUSigSXVAjHn8G-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1505" as="sourcePoint" />
+            <mxPoint x="580" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
