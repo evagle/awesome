@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="RIPOSOB8vfV2EPrKnL5X">
-    <mxGraphModel dx="993" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2803" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,10 +23,10 @@
           <mxGeometry x="344.12" y="180" width="156.88" height="31.82" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-161" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1730" width="388" height="240" as="geometry" />
+          <mxGeometry x="600" y="1730" width="450" height="240" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-165" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1140" width="721.25" height="360" as="geometry" />
+          <mxGeometry x="190" y="1110" width="721.25" height="390" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-168" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1731" width="410.01" height="229" as="geometry" />
@@ -214,17 +214,17 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-200" target="PDw0ZhWUSigSXVAjHn8G-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-77" target="PDw0ZhWUSigSXVAjHn8G-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-77" value="固定资产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1196" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#099f0c;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-84">
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#099f0c;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-84" target="PDw0ZhWUSigSXVAjHn8G-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1425" as="sourcePoint" />
             <mxPoint x="370" y="1560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="1498" />
-              <mxPoint x="370" y="1498" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-79" value="厂房、技术" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-78">
@@ -364,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-170" value="财务费用-&lt;br&gt;利息费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1880" width="80" height="40" as="geometry" />
+          <mxGeometry x="630" y="1880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-179" value="营业成本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1880" width="80" height="40" as="geometry" />
@@ -450,7 +450,7 @@
           <mxGeometry x="200" y="1196" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-166" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;资产负债表-资产端&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1150" width="156.88" height="31.82" as="geometry" />
+          <mxGeometry x="456.56" y="1120" width="156.88" height="31.82" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-194" target="PDw0ZhWUSigSXVAjHn8G-64">
           <mxGeometry relative="1" as="geometry" />
@@ -594,7 +594,7 @@
           <mxGeometry x="310" y="2650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-274" value="以公允价值计量变动计入损益的金融资产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440.88" y="2650" width="120.56" height="40" as="geometry" />
+          <mxGeometry x="450" y="2650" width="120.56" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-275" value="以公允价值计量变动计入其他综合收益的金融资产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="638" y="2650" width="152" height="40" as="geometry" />
@@ -625,6 +625,15 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-291" value="利息收入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="2900" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-303" value="资产处置收益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#ff0000;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-304" target="PDw0ZhWUSigSXVAjHn8G-303">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-304" value="处置" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1151.82" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
