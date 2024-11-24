@@ -535,7 +535,7 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-287" value="坏账准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-286">
           <mxGeometry x="-0.4892" y="4" relative="1" as="geometry">
-            <mxPoint x="7" y="-16" as="offset" />
+            <mxPoint x="7" y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-285" target="PDw0ZhWUSigSXVAjHn8G-280">
@@ -565,7 +565,7 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-298" value="资产减值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-297">
           <mxGeometry x="-0.5358" y="-2" relative="1" as="geometry">
-            <mxPoint x="-7" y="8" as="offset" />
+            <mxPoint x="-7" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-273" target="PDw0ZhWUSigSXVAjHn8G-290">
@@ -637,7 +637,7 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-332" value="公允价值变动&lt;br&gt;/卖出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-331">
           <mxGeometry x="-0.6719" y="4" relative="1" as="geometry">
-            <mxPoint x="11" as="offset" />
+            <mxPoint x="11" y="35" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-275" value="以公允价值计量变动计入其他综合收益的金融资产-&lt;br&gt;权益类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
