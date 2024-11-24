@@ -550,7 +550,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-272" value="存款/借款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170.07999999999998" y="2650" width="80" height="40" as="geometry" />
+          <mxGeometry x="179.07999999999998" y="2650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-273" target="PDw0ZhWUSigSXVAjHn8G-252">
           <mxGeometry relative="1" as="geometry" />
@@ -709,8 +709,8 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-290" value="一年内到期的非流动资产：长期债权投资，其他债权投资等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="2421.82" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-291" value="利息收入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="2900" width="80" height="40" as="geometry" />
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-291" value="财务费用&lt;br&gt;利息收入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179.08" y="2900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-303" value="资产处置收益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1800" width="80" height="40" as="geometry" />
