@@ -651,7 +651,7 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-348" value="减值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-347">
           <mxGeometry x="-0.6934" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="27" as="offset" />
+            <mxPoint x="3" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-278" target="PDw0ZhWUSigSXVAjHn8G-345">
@@ -659,7 +659,7 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-350" value="净利润" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-349">
           <mxGeometry x="-0.5584" relative="1" as="geometry">
-            <mxPoint y="28" as="offset" />
+            <mxPoint y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-278" target="PDw0ZhWUSigSXVAjHn8G-330">
@@ -672,7 +672,7 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-352" value="其他&lt;br&gt;综合收益" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-351">
           <mxGeometry x="-0.7134" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="-46" as="offset" />
+            <mxPoint x="2" y="-56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-278" target="PDw0ZhWUSigSXVAjHn8G-353">
@@ -685,7 +685,7 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-356" value="处置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-354">
           <mxGeometry x="0.4775" y="-1" relative="1" as="geometry">
-            <mxPoint x="-149" y="-57" as="offset" />
+            <mxPoint x="-149" y="-66" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-278" value="联营合营" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
