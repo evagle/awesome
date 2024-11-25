@@ -343,7 +343,7 @@
           <mxGeometry x="140" y="1545" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-151" value="资产减值损失" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1799.7" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="1799.7" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-155" value="减值" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="610" y="1196" width="40" height="40" as="geometry" />
@@ -383,7 +383,7 @@
           <mxGeometry x="630" y="1880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-179" value="营业成本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1880" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="1880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-99" value="应收票据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="1276" width="80" height="40" as="geometry" />
@@ -417,7 +417,7 @@
           <mxGeometry x="410" y="1196" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-169" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;资产负债表-负债端&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="262.81446808510634" y="1929.9976923076924" width="160.16936170212767" height="20.82138461538462" as="geometry" />
+          <mxGeometry x="249.83446808510635" y="1929.9976923076924" width="160.16936170212767" height="20.82138461538462" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-68" value="短期借款" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="438" y="1799.7" width="80" height="40" as="geometry" />
@@ -482,7 +482,7 @@
           <mxGeometry x="330" y="1315" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-162" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;利润表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1940" width="60.00000000000001" height="21.815999999999995" as="geometry" />
+          <mxGeometry x="800" y="1938.18" width="60.00000000000001" height="21.815999999999995" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-107" value="营业收入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="1799.7" width="80" height="40" as="geometry" />
