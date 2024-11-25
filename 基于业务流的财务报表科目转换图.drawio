@@ -697,9 +697,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-356" value="处置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PDw0ZhWUSigSXVAjHn8G-354" vertex="1" connectable="0">
-          <mxGeometry x="0.4775" y="-1" relative="1" as="geometry">
-            <mxPoint x="-149" y="-66" as="offset" />
+        <mxCell id="5t_itrXpZTU33Db9cG_B-5" value="处置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PDw0ZhWUSigSXVAjHn8G-354">
+          <mxGeometry x="0.05" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-278" value="联营合营" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -804,17 +804,12 @@
             <mxPoint x="-4" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PDw0ZhWUSigSXVAjHn8G-326" target="PDw0ZhWUSigSXVAjHn8G-342" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="918" y="2840" />
-              <mxPoint x="780" y="2840" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="5t_itrXpZTU33Db9cG_B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-326" target="PDw0ZhWUSigSXVAjHn8G-342">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-344" value="减值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PDw0ZhWUSigSXVAjHn8G-343" vertex="1" connectable="0">
-          <mxGeometry x="-0.5696" relative="1" as="geometry">
-            <mxPoint x="-2" y="5" as="offset" />
+        <mxCell id="5t_itrXpZTU33Db9cG_B-4" value="减值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5t_itrXpZTU33Db9cG_B-3">
+          <mxGeometry x="-0.3238" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-326" value="以公允价值计量变动计入其他综合收益的金融资产-&lt;br&gt;债权类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -827,7 +822,7 @@
           <mxGeometry x="876" y="2301.82" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-342" value="投资收益&lt;br&gt;信用减值损失" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="2900" width="80" height="40" as="geometry" />
+          <mxGeometry x="878" y="2900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-345" value="投资收益&lt;br&gt;信用减值损失" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="2900" width="80" height="40" as="geometry" />
