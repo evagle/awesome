@@ -332,7 +332,7 @@
         </mxCell>
         <mxCell id="5t_itrXpZTU33Db9cG_B-1" value="资产减值损失" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PDw0ZhWUSigSXVAjHn8G-157" vertex="1" connectable="0">
           <mxGeometry x="-0.3445" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="PDw0ZhWUSigSXVAjHn8G-144" target="PDw0ZhWUSigSXVAjHn8G-179" edge="1">
