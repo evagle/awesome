@@ -518,7 +518,7 @@
           <mxGeometry x="130" y="2870" width="1160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-233" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;利润表&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="493.35446808510625" y="3029.9976923076924" width="160.16936170212767" height="20.82138461538462" as="geometry" />
+          <mxGeometry x="580.0044680851063" y="3029.9976923076924" width="160.16936170212767" height="20.82138461538462" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-236" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="139" y="2220" width="891" height="320" as="geometry" />
@@ -620,7 +620,7 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-319" value="公允价值变动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PDw0ZhWUSigSXVAjHn8G-318" vertex="1" connectable="0">
           <mxGeometry x="-0.5386" relative="1" as="geometry">
-            <mxPoint x="7" y="-13" as="offset" />
+            <mxPoint x="8" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-274" value="以公允价值计量变动计入损益的金融资产" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
