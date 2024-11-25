@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5t_itrXpZTU33Db9cG_B-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2600" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5t_itrXpZTU33Db9cG_B-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2620" width="260" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-229" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="399.44" y="600" width="271.56" height="190" as="geometry" />
         </mxCell>
@@ -642,8 +648,8 @@
             <mxPoint x="16" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-275" value="以公允价值计量变动计入其他综合收益的金融资产-&lt;br&gt;权益类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="614.44" y="2650" width="152" height="40" as="geometry" />
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-275" value="权益类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="651" y="2650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PDw0ZhWUSigSXVAjHn8G-278" target="PDw0ZhWUSigSXVAjHn8G-336" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -774,7 +780,7 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PDw0ZhWUSigSXVAjHn8G-326" target="PDw0ZhWUSigSXVAjHn8G-330" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="880" y="2830" />
+              <mxPoint x="844" y="2830" />
               <mxPoint x="690" y="2830" />
             </Array>
           </mxGeometry>
@@ -787,7 +793,7 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-340" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PDw0ZhWUSigSXVAjHn8G-326" target="PDw0ZhWUSigSXVAjHn8G-317" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="842" y="2810" />
+              <mxPoint x="824" y="2810" />
               <mxPoint x="610" y="2810" />
             </Array>
           </mxGeometry>
@@ -802,11 +808,11 @@
         </mxCell>
         <mxCell id="5t_itrXpZTU33Db9cG_B-4" value="减值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5t_itrXpZTU33Db9cG_B-3">
           <mxGeometry x="-0.3238" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="9" as="offset" />
+            <mxPoint x="-1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDw0ZhWUSigSXVAjHn8G-326" value="以公允价值计量变动计入其他综合收益的金融资产-&lt;br&gt;债权类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="804" y="2650" width="152" height="40" as="geometry" />
+        <mxCell id="PDw0ZhWUSigSXVAjHn8G-326" value="债权类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="804" y="2650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-330" value="其他综合收益" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="2900" width="80" height="40" as="geometry" />
@@ -831,11 +837,17 @@
         </mxCell>
         <mxCell id="5t_itrXpZTU33Db9cG_B-9" value="股息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5t_itrXpZTU33Db9cG_B-8">
           <mxGeometry x="-0.7409" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5t_itrXpZTU33Db9cG_B-10" value="投资收益&lt;br&gt;以摊余成本计量的金融资产终止确认收益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359.44" y="2900" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5t_itrXpZTU33Db9cG_B-14" value="以摊余成本计量的金融资产" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="202" y="2618" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5t_itrXpZTU33Db9cG_B-15" value="以公允价值计量变动计入其他综合收益的金融资产" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2610" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
