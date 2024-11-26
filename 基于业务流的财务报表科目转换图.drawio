@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="RIPOSOB8vfV2EPrKnL5X">
-    <mxGraphModel dx="1529" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1529" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,8 +263,10 @@
             <mxPoint x="17" y="96" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g10ouUUuRNhTddTcwMs_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-83" target="g10ouUUuRNhTddTcwMs_-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g10ouUUuRNhTddTcwMs_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="g10ouUUuRNhTddTcwMs_-18" target="g10ouUUuRNhTddTcwMs_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1296" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-83" value="使用权资产" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="1276" width="80" height="40" as="geometry" />
@@ -415,7 +417,7 @@
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-192" value="长期应收款" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="1276" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g10ouUUuRNhTddTcwMs_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-200" target="g10ouUUuRNhTddTcwMs_-6">
+        <mxCell id="g10ouUUuRNhTddTcwMs_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g10ouUUuRNhTddTcwMs_-18" target="g10ouUUuRNhTddTcwMs_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-200" value="长期待摊费用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -849,16 +851,21 @@
         <mxCell id="5t_itrXpZTU33Db9cG_B-15" value="以公允价值计量变动计入其他综合收益的金融资产" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="2610" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g10ouUUuRNhTddTcwMs_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="g10ouUUuRNhTddTcwMs_-2" target="PDw0ZhWUSigSXVAjHn8G-144">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g10ouUUuRNhTddTcwMs_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="g10ouUUuRNhTddTcwMs_-2" target="PDw0ZhWUSigSXVAjHn8G-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="1330" />
+              <mxPoint x="590" y="1330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="g10ouUUuRNhTddTcwMs_-5" value="计入存货成本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g10ouUUuRNhTddTcwMs_-4">
           <mxGeometry x="-0.1988" y="-2" relative="1" as="geometry">
-            <mxPoint x="5" y="5" as="offset" />
+            <mxPoint x="-7" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g10ouUUuRNhTddTcwMs_-2" value="折旧" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="464" y="1276" width="40" height="40" as="geometry" />
+          <mxGeometry x="515.22" y="1248" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g10ouUUuRNhTddTcwMs_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ff0000;" edge="1" parent="1" source="g10ouUUuRNhTddTcwMs_-6" target="g10ouUUuRNhTddTcwMs_-12">
           <mxGeometry relative="1" as="geometry">
