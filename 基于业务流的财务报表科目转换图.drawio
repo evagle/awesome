@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="RIPOSOB8vfV2EPrKnL5X">
-    <mxGraphModel dx="1529" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +227,7 @@
         </mxCell>
         <mxCell id="5t_itrXpZTU33Db9cG_B-2" value="资产减值损失" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PDw0ZhWUSigSXVAjHn8G-156" vertex="1" connectable="0">
           <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
-            <mxPoint x="-41" y="-14" as="offset" />
+            <mxPoint x="-1" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g10ouUUuRNhTddTcwMs_-18" target="PDw0ZhWUSigSXVAjHn8G-304" edge="1">
@@ -356,7 +356,7 @@
           <mxGeometry x="860" y="1799.7" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-155" value="减值" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1196" width="40" height="40" as="geometry" />
+          <mxGeometry x="610" y="1215" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0081fa;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PDw0ZhWUSigSXVAjHn8G-148" target="PDw0ZhWUSigSXVAjHn8G-61" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -409,8 +409,7 @@
             <mxPoint x="655" y="1215" as="sourcePoint" />
             <mxPoint x="880" y="1815" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="1216" />
-              <mxPoint x="920" y="1800" />
+              <mxPoint x="920" y="1235" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -729,7 +728,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-304" value="处置" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1153.82" width="40" height="40" as="geometry" />
+          <mxGeometry x="610" y="1171" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-308" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PDw0ZhWUSigSXVAjHn8G-272" target="PDw0ZhWUSigSXVAjHn8G-285" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -876,7 +875,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g10ouUUuRNhTddTcwMs_-6" value="摊销" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="611" y="1111" width="40" height="40" as="geometry" />
+          <mxGeometry x="611" y="1129" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g10ouUUuRNhTddTcwMs_-12" value="管理费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1880" width="80" height="40" as="geometry" />
