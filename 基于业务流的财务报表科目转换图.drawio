@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="Page-1" id="RIPOSOB8vfV2EPrKnL5X">
-    <mxGraphModel dx="2663" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2663" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,6 +191,34 @@
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-64" value="无形资产" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622" y="1366" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fEVxsTx8sF9cgy5vZWGp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-66" target="PDw0ZhWUSigSXVAjHn8G-211">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="772" y="1480" />
+              <mxPoint x="440" y="1480" />
+              <mxPoint x="440" y="1306" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEVxsTx8sF9cgy5vZWGp-8" value="固定资产循环" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fEVxsTx8sF9cgy5vZWGp-6">
+          <mxGeometry x="0.7292" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEVxsTx8sF9cgy5vZWGp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDw0ZhWUSigSXVAjHn8G-66" target="PDw0ZhWUSigSXVAjHn8G-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="752" y="1470" />
+              <mxPoint x="460" y="1470" />
+              <mxPoint x="460" y="1386" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEVxsTx8sF9cgy5vZWGp-9" value="研发循环" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fEVxsTx8sF9cgy5vZWGp-7">
+          <mxGeometry x="0.7848" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PDw0ZhWUSigSXVAjHn8G-66" value="货币资金" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="752" y="1405" width="80" height="40" as="geometry" />
