@@ -202,13 +202,16 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-77" value="Unpause" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-81" value="1 shown widget&lt;br&gt;1 customer left" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-81" value="shown widget 1&lt;br&gt;customer left 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-83" target="fQQwxeyHgZwv-CVo4GR3-86">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-83" value="Printer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-86" value="1 specialize team&lt;br&gt;1 reboot printer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-86" value="specialize team 1&lt;br&gt;reboot printer 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
