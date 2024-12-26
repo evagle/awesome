@@ -111,7 +111,7 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-35" value="Is repair issue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-36" value="Other Issue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-36" value="Add storelink: 3&lt;br&gt;order: 3&lt;br&gt;menu publish: 2&lt;div&gt;menu issue: 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-42" value="KB Article" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
