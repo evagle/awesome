@@ -80,6 +80,9 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-11" value="Widget Success" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-12" target="fQQwxeyHgZwv-CVo4GR3-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-12" value="Escalate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -133,6 +136,9 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-36" value="Add storelink: 3&lt;br&gt;order: 3&lt;br&gt;menu publish: 2&lt;div&gt;menu issue: 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-47" target="fQQwxeyHgZwv-CVo4GR3-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-47" value="Escalate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -142,12 +148,6 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-53" value="Other" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-58" value="Agent action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1140" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-60" value="Agent action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1140" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-61" value="Agent action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="940" width="60" height="30" as="geometry" />
         </mxCell>
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-66" value="Re-integrate:2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-68" value="Reintegrate 4&lt;br&gt;Reintegrate+Unpause 1&lt;br&gt;Recommend GH API 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1200" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
