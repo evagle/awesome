@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="e1eXuWaU9WfsJ-PKviq6">
-    <mxGraphModel dx="1837" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-29" value="KB Article: 3&lt;br&gt;printer: 2&lt;br&gt;unpause: 2&lt;br&gt;Add storelink: 1&lt;br&gt;NA: 3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="784.66" y="740" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-35" target="fQQwxeyHgZwv-CVo4GR3-5">
           <mxGeometry relative="1" as="geometry" />
@@ -133,6 +133,9 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-35" value="Is repair issue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-36" target="fQQwxeyHgZwv-CVo4GR3-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-36" value="Add storelink: 3&lt;br&gt;order: 3&lt;br&gt;menu publish: 2&lt;div&gt;menu issue: 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="970" width="120" height="60" as="geometry" />
         </mxCell>
@@ -146,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-50" value="Repair Issue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="704.66" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-53" target="fQQwxeyHgZwv-CVo4GR3-73">
           <mxGeometry relative="1" as="geometry" />
@@ -173,10 +176,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-53" value="Other" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="844.66" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-62" value="细分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="800" width="60" height="30" as="geometry" />
+          <mxGeometry x="884.66" y="780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-66" value="Re-integrate:2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1350" width="120" height="60" as="geometry" />
@@ -185,34 +188,37 @@
           <mxGeometry x="380" y="1200" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-71" value="Reintegrate 1&lt;br&gt;Escalate specialize team 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="990" width="150" height="60" as="geometry" />
+          <mxGeometry x="689.66" y="970" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-73" target="fQQwxeyHgZwv-CVo4GR3-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-73" value="Add storelink" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="844.66" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-74" value="Widget not shown&lt;br&gt;Agent help add storelink" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="844.66" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-77" target="fQQwxeyHgZwv-CVo4GR3-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-77" value="Unpause" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="984.66" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-81" value="shown widget 1&lt;br&gt;customer left 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="984.66" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQQwxeyHgZwv-CVo4GR3-83" target="fQQwxeyHgZwv-CVo4GR3-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-83" value="Printer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="1124.66" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-86" value="specialize team 1&lt;br&gt;reboot printer 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="1124.66" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-88" value="reintegrate&lt;br&gt;redirect to ofo support&lt;br&gt;add storelink&lt;br&gt;..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1100" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
