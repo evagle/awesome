@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="e1eXuWaU9WfsJ-PKviq6">
-    <mxGraphModel dx="943" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,13 +106,13 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fQQwxeyHgZwv-CVo4GR3-29" target="fQQwxeyHgZwv-CVo4GR3-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-55" value="9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQQwxeyHgZwv-CVo4GR3-54" vertex="1" connectable="0">
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-55" value="16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQQwxeyHgZwv-CVo4GR3-54" vertex="1" connectable="0">
           <mxGeometry x="0.0571" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-29" value="KB Article: 3&lt;br&gt;printer: 2&lt;br&gt;unpause: 2&lt;br&gt;Add storelink: 1&lt;br&gt;NA: 3" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="784.66" y="740" width="120" height="80" as="geometry" />
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-29" value="KB Article: 5&lt;br&gt;printer: 3&lt;br&gt;unpause: 2&lt;br&gt;Add storelink: 2&lt;br&gt;churn request 1&lt;br&gt;NA: 4" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="784.66" y="730" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQQwxeyHgZwv-CVo4GR3-35" target="fQQwxeyHgZwv-CVo4GR3-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -177,9 +177,6 @@
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-53" value="Other" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="844.66" y="870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-62" value="细分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="884.66" y="780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-66" value="Re-integrate:2&lt;br&gt;Delete creds + reintegrate: 1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="1350" width="120" height="60" as="geometry" />
