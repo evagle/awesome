@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="e1eXuWaU9WfsJ-PKviq6">
-    <mxGraphModel dx="943" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fQQwxeyHgZwv-CVo4GR3-5" target="fQQwxeyHgZwv-CVo4GR3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-18" value="NO：14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQQwxeyHgZwv-CVo4GR3-17" vertex="1" connectable="0">
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-18" value="NO：13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQQwxeyHgZwv-CVo4GR3-17" vertex="1" connectable="0">
           <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -117,7 +117,7 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQQwxeyHgZwv-CVo4GR3-35" target="fQQwxeyHgZwv-CVo4GR3-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-38" value="YES：22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQQwxeyHgZwv-CVo4GR3-37" vertex="1" connectable="0">
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-38" value="YES：21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQQwxeyHgZwv-CVo4GR3-37" vertex="1" connectable="0">
           <mxGeometry x="-0.3143" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -125,7 +125,7 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fQQwxeyHgZwv-CVo4GR3-35" target="fQQwxeyHgZwv-CVo4GR3-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-40" value="NO：20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQQwxeyHgZwv-CVo4GR3-39" vertex="1" connectable="0">
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-40" value="NO：21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQQwxeyHgZwv-CVo4GR3-39" vertex="1" connectable="0">
           <mxGeometry x="-0.4087" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -136,8 +136,8 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQQwxeyHgZwv-CVo4GR3-36" target="fQQwxeyHgZwv-CVo4GR3-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-36" value="Add storelink: 3&lt;br&gt;order: 3&lt;br&gt;menu publish: 2&lt;div&gt;menu issue: 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-36" value="Add storelink: 4&lt;br&gt;order: 5&lt;br&gt;menu publish: 4&lt;div&gt;menu issue: 2&lt;br&gt;unpause 2&lt;br&gt;86 item 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="940" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQQwxeyHgZwv-CVo4GR3-47" target="fQQwxeyHgZwv-CVo4GR3-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -184,8 +184,8 @@
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-66" value="Re-integrate:2&lt;br&gt;Delete creds + reintegrate: 1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fQQwxeyHgZwv-CVo4GR3-68" value="Reintegrate 4&lt;br&gt;Reintegrate+Unpause 1&lt;br&gt;Recommend GH API 1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1200" width="140" height="80" as="geometry" />
+        <mxCell id="fQQwxeyHgZwv-CVo4GR3-68" value="Reintegrate 6&lt;br&gt;Reintegrate+Unpause 1&lt;br&gt;Recommend GH API 1&lt;br&gt;update connection sett 1&lt;br&gt;Reintegrate+publish 1&lt;br&gt;other" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="1200" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fQQwxeyHgZwv-CVo4GR3-71" value="Reintegrate 1&lt;br&gt;Escalate specialize team 1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="689.66" y="970" width="150" height="60" as="geometry" />
