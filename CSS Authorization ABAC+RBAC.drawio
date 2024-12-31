@@ -779,6 +779,15 @@
         <mxCell id="InWKgf-U8V8Ll13gaiFN-10" value="Identity Service" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="6504" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UtKMWpXWZYvw-dGDpyW5-1" value="Store Read Policy&lt;br&gt;Any[&lt;br&gt;(&lt;br&gt;&amp;nbsp; match(request, &quot;permission&quot;, &quot;store:read&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource&quot;= [request.store.org_id],&quot;role&quot; in [&quot;otter admin&quot;])&lt;br&gt;),&lt;/div&gt;&lt;div&gt;(&lt;br&gt;&amp;nbsp; match(request, &quot;permission&quot;, &quot;store:read&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource&quot;= [request.store.store_id],&quot;role&quot; in [&quot;cook,otter tablet&quot;])&lt;br&gt;)&lt;/div&gt;&lt;br&gt;]&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="603" y="4797" width="312" height="306" as="geometry" />
+        </mxCell>
+        <mxCell id="UtKMWpXWZYvw-dGDpyW5-2" value="ABAC policy based role" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="4738" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtKMWpXWZYvw-dGDpyW5-4" value="Idea:break down role permissions into separate policies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="4763" width="306" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
