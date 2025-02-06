@@ -39,19 +39,7 @@
         <mxCell id="UpDTwZIlFveo_wN8iUtt-6" value="Ottergate&lt;br&gt;API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UpDTwZIlFveo_wN8iUtt-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="675" width="120" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="UpDTwZIlFveo_wN8iUtt-7" value="Chatbot Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UpDTwZIlFveo_wN8iUtt-10">
-          <mxGeometry width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="UpDTwZIlFveo_wN8iUtt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UpDTwZIlFveo_wN8iUtt-10">
-          <mxGeometry x="17.5" y="45" width="85" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="UpDTwZIlFveo_wN8iUtt-9" value="Sunco Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpDTwZIlFveo_wN8iUtt-10">
-          <mxGeometry x="13.75" y="45" width="92.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UpDTwZIlFveo_wN8iUtt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-9" target="UpDTwZIlFveo_wN8iUtt-4">
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-9" target="UpDTwZIlFveo_wN8iUtt-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-12" value="Replies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpDTwZIlFveo_wN8iUtt-11">
@@ -124,9 +112,6 @@
         <mxCell id="UpDTwZIlFveo_wN8iUtt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-7" target="UpDTwZIlFveo_wN8iUtt-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UpDTwZIlFveo_wN8iUtt-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-9" target="UpDTwZIlFveo_wN8iUtt-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-42" target="UpDTwZIlFveo_wN8iUtt-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -153,6 +138,18 @@
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-45" value="Embedding Model&lt;br&gt;text-embedding-ada-002" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-7" target="UpDTwZIlFveo_wN8iUtt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-7" value="Chatbot Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="675" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="675" width="85" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-9" value="Sunco Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="674" width="92.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
