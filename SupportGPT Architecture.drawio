@@ -1,9 +1,157 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="E73bntxt86W5P2doF7nK">
-    <mxGraphModel>
+    <mxGraphModel dx="943" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-1" target="UpDTwZIlFveo_wN8iUtt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-1" value="User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-2" target="UpDTwZIlFveo_wN8iUtt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-2" value="Clients&lt;br&gt;Tablet/Mobile/Web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-3" target="UpDTwZIlFveo_wN8iUtt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-3" value="Sunco SDK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-4" target="UpDTwZIlFveo_wN8iUtt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-31" value="Webhook" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpDTwZIlFveo_wN8iUtt-29">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-4" value="Sunco Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-6" target="UpDTwZIlFveo_wN8iUtt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-6" value="Ottergate&lt;br&gt;API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="675" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-7" value="Chatbot Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UpDTwZIlFveo_wN8iUtt-10">
+          <mxGeometry width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UpDTwZIlFveo_wN8iUtt-10">
+          <mxGeometry x="17.5" y="45" width="85" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-9" value="Sunco Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpDTwZIlFveo_wN8iUtt-10">
+          <mxGeometry x="13.75" y="45" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-9" target="UpDTwZIlFveo_wN8iUtt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-12" value="Replies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpDTwZIlFveo_wN8iUtt-11">
+          <mxGeometry x="0.3184" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-13" value="Zendesk Ticket&lt;br&gt;API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-18" target="UpDTwZIlFveo_wN8iUtt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-57" value="Prompt: &lt;br&gt;system prompt+&lt;br&gt;chat history+&lt;br&gt;tools+docs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpDTwZIlFveo_wN8iUtt-35">
+          <mxGeometry x="-0.0889" y="1" relative="1" as="geometry">
+            <mxPoint x="-18" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-18" target="UpDTwZIlFveo_wN8iUtt-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-18" target="UpDTwZIlFveo_wN8iUtt-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-52" value="Encode Query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpDTwZIlFveo_wN8iUtt-51">
+          <mxGeometry x="0.1158" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-18" value="Py-SupportGPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-19" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-20" target="UpDTwZIlFveo_wN8iUtt-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-20" value="Founctions/Tools" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-21" target="UpDTwZIlFveo_wN8iUtt-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="1050" />
+              <mxPoint x="540" y="855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-56" value="Similar Docs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpDTwZIlFveo_wN8iUtt-55">
+          <mxGeometry x="0.1759" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-21" value="Vector Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-22" target="UpDTwZIlFveo_wN8iUtt-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-22" value="Internal APIs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-23" value="Grpc Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-24" value="Grpc Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-7" target="UpDTwZIlFveo_wN8iUtt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-9" target="UpDTwZIlFveo_wN8iUtt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-42" target="UpDTwZIlFveo_wN8iUtt-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-50" value="Encode Document" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpDTwZIlFveo_wN8iUtt-46">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-42" value="Internal&lt;br&gt;Knowledge Base" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-47" value="Write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-45" target="UpDTwZIlFveo_wN8iUtt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-45" target="UpDTwZIlFveo_wN8iUtt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-54" value="Read" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpDTwZIlFveo_wN8iUtt-53">
+          <mxGeometry x="-0.0286" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-45" value="Embedding Model&lt;br&gt;text-embedding-ada-002" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
