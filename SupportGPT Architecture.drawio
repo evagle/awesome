@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="E73bntxt86W5P2doF7nK">
-    <mxGraphModel dx="1454" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,13 +133,13 @@
         <mxCell id="UpDTwZIlFveo_wN8iUtt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="UpDTwZIlFveo_wN8iUtt-42" target="UpDTwZIlFveo_wN8iUtt-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UpDTwZIlFveo_wN8iUtt-50" value="Encode Document" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UpDTwZIlFveo_wN8iUtt-46" vertex="1" connectable="0">
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-50" value="Enbedding" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UpDTwZIlFveo_wN8iUtt-46" vertex="1" connectable="0">
           <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="62" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpDTwZIlFveo_wN8iUtt-42" value="Internal&lt;br&gt;Knowledge Base" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="704" width="120" height="80" as="geometry" />
+        <mxCell id="UpDTwZIlFveo_wN8iUtt-42" value="Internal&lt;br&gt;Knowledge Docs" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-47" value="Index" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="UpDTwZIlFveo_wN8iUtt-45" target="UpDTwZIlFveo_wN8iUtt-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -173,6 +173,9 @@
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-9" value="Sunco Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365.5" y="674" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEkNgyyi-g1eW3Eg_v2F-1" value="SplitText&lt;br&gt;fixed-size/delimiter/semantic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
