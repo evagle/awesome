@@ -183,6 +183,15 @@
         <mxCell id="VJW5TG7ulVq54otyxMGV-6" value="&lt;b&gt;Embedding Pipeline&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="794" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VJW5TG7ulVq54otyxMGV-7" value="DataApp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJW5TG7ulVq54otyxMGV-8" value="Streamline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJW5TG7ulVq54otyxMGV-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Play Ground&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="220" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
