@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="Page-1" id="E73bntxt86W5P2doF7nK">
     <mxGraphModel dx="2231" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -174,8 +174,11 @@
         <mxCell id="UpDTwZIlFveo_wN8iUtt-9" value="Sunco Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365.5" y="674" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkNgyyi-g1eW3Eg_v2F-1" value="SplitText&lt;br&gt;fixed-size/delimiter/semantic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NEkNgyyi-g1eW3Eg_v2F-1" value="SplitText&lt;br&gt;fixed-size/delimiter/semantic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJW5TG7ulVq54otyxMGV-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;System Load&lt;/h1&gt;&lt;p&gt;- 50k customers&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 100k requests/day, max 4qps&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;py-supportgpt: 4pods 1c2G&lt;/span&gt;&lt;/p&gt;&lt;p&gt;chatbot-service: 8pods 0.5c2G&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="240" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
