@@ -267,7 +267,7 @@
         </mxCell>
         <mxCell id="tX9U0qZX7yQvij5a4MrE-87" value="GraphQL Subscription&lt;br&gt;One-Way Push" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tX9U0qZX7yQvij5a4MrE-85" vertex="1" connectable="0">
           <mxGeometry x="-0.6535" y="-1" relative="1" as="geometry">
-            <mxPoint x="-7" y="-20" as="offset" />
+            <mxPoint x="-16" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UaHwrKVHyEv1MkEapby0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tX9U0qZX7yQvij5a4MrE-61" target="tX9U0qZX7yQvij5a4MrE-88">
