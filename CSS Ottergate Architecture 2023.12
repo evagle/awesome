@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T03:27:12.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bT3ZXb8ZYfkRB4GgjBwv" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="Page-1" id="y0g2k3MViaqip-643Z0D">
-    <mxGraphModel dx="1102" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,14 @@
             <mxPoint x="-7" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UaHwrKVHyEv1MkEapby0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tX9U0qZX7yQvij5a4MrE-61" target="tX9U0qZX7yQvij5a4MrE-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UaHwrKVHyEv1MkEapby0-2" value="Subscribe topic:&lt;br&gt;facility:order:facility_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UaHwrKVHyEv1MkEapby0-1">
+          <mxGeometry x="-0.1429" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tX9U0qZX7yQvij5a4MrE-61" value="ottergate-subscriptions" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -319,14 +327,6 @@
         </mxCell>
         <mxCell id="tX9U0qZX7yQvij5a4MrE-78" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58536;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="325.5" y="1610" width="69" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tX9U0qZX7yQvij5a4MrE-88" target="tX9U0qZX7yQvij5a4MrE-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tX9U0qZX7yQvij5a4MrE-90" value="Subscription" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tX9U0qZX7yQvij5a4MrE-89" vertex="1" connectable="0">
-          <mxGeometry x="0.148" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tX9U0qZX7yQvij5a4MrE-88" value="Redis&lt;br&gt;Pub/Sub" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="2010" width="120" height="60" as="geometry" />
