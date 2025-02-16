@@ -805,7 +805,7 @@
         <mxCell id="9VOk8m4knC-RUqRdFZZ7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9VOk8m4knC-RUqRdFZZ7-4" target="gKebIImFh-ZQM33xnNgw-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9VOk8m4knC-RUqRdFZZ7-8" value="Grpc streaming" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9VOk8m4knC-RUqRdFZZ7-5">
+        <mxCell id="9VOk8m4knC-RUqRdFZZ7-8" value="Grpc streaming&lt;br&gt;changefeed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9VOk8m4knC-RUqRdFZZ7-5">
           <mxGeometry x="-0.5772" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
