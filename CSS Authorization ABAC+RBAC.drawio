@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="Uo0DYmHlN4VJzkkPScgU">
-    <mxGraphModel dx="3063" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1679" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,7 +651,10 @@
           <mxGeometry x="253" y="6140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-8" value="AuthZ5&lt;br&gt;Data Plane" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="6140" width="120" height="60" as="geometry" />
+          <mxGeometry x="722" y="6140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9VOk8m4knC-RUqRdFZZ7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKebIImFh-ZQM33xnNgw-9" target="9VOk8m4knC-RUqRdFZZ7-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-9" value="Auth&lt;br&gt;CRDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="271" y="6290" width="84" height="80" as="geometry" />
@@ -665,7 +668,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-13" value="Cloud Bucket" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="528" y="6248" width="84" height="80" as="geometry" />
+          <mxGeometry x="740" y="6248" width="84" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="InWKgf-U8V8Ll13gaiFN-2" target="InWKgf-U8V8Ll13gaiFN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -696,21 +699,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-24" value="Api Gateway" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="5939" width="120" height="60" as="geometry" />
+          <mxGeometry x="722" y="5939" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-26" value="Downstream&lt;br&gt;Grpc Services" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="5939" width="120" height="60" as="geometry" />
+          <mxGeometry x="992" y="5939" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gKebIImFh-ZQM33xnNgw-31" target="gKebIImFh-ZQM33xnNgw-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-31" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="5841" width="120" height="60" as="geometry" />
+          <mxGeometry x="722" y="5841" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gKebIImFh-ZQM33xnNgw-24" target="gKebIImFh-ZQM33xnNgw-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="266.5" y="6740" as="sourcePoint" />
-            <mxPoint x="619.5" y="6740" as="targetPoint" />
+            <mxPoint x="478.5" y="6740" as="sourcePoint" />
+            <mxPoint x="831.5" y="6740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-35" value="Centralize Auth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKebIImFh-ZQM33xnNgw-34" vertex="1" connectable="0">
@@ -738,13 +741,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-33" value="Auth Library" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="6047" width="120" height="60" as="geometry" />
+          <mxGeometry x="722" y="6047" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKebIImFh-ZQM33xnNgw-38" value="Downstream&lt;br&gt;Grpc Services" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="781" y="6047" width="120" height="60" as="geometry" />
+          <mxGeometry x="993" y="6047" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="InWKgf-U8V8Ll13gaiFN-1" value="AuthZ5&lt;br&gt;Workflows" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="6380" width="120" height="60" as="geometry" />
+          <mxGeometry x="722" y="6380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="InWKgf-U8V8Ll13gaiFN-2" value="Read Replica" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="271" y="6370" width="84" height="80" as="geometry" />
@@ -766,7 +769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="InWKgf-U8V8Ll13gaiFN-7" value="LDAP&lt;br&gt;Employees" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="741" y="6380" width="120" height="60" as="geometry" />
+          <mxGeometry x="953" y="6380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="InWKgf-U8V8Ll13gaiFN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="InWKgf-U8V8Ll13gaiFN-10" target="InWKgf-U8V8Ll13gaiFN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -777,16 +780,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="InWKgf-U8V8Ll13gaiFN-10" value="Identity Service" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="6504" width="120" height="60" as="geometry" />
+          <mxGeometry x="722" y="6504" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UtKMWpXWZYvw-dGDpyW5-1" value="Otter Admin Role Policy&lt;br&gt;Any[&lt;br&gt;{&lt;br&gt;&quot;name&quot;: &quot;Store Read&quot;&lt;br&gt;conditions: [&lt;br&gt;Any[&lt;br&gt;( match(request, &quot;permission&quot;, &quot;store:read&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource id&quot;= [request.store.org_id], &quot;resource role&quot;=&quot;Otter Admin&quot;)),&lt;/div&gt;&lt;div&gt;(&amp;nbsp;match(request, &quot;permission&quot;, &quot;store:read&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource id&quot;= [request.store.store_id]&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, &quot;resource role&quot;=&quot;Otter Admin&quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;))&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;]&lt;br&gt;},&lt;br&gt;{&lt;br&gt;&quot;name&quot;: &quot;Store Edit&quot;&lt;br&gt;conditions: [&lt;br&gt;Any[&lt;br&gt;(&amp;nbsp;match(request, &quot;permission&quot;, &quot;store:edit&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource id&quot;= [request.store.org_id]&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, &quot;resource role&quot;=&quot;Otter Admin&quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)),&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(&amp;nbsp;match(request, &quot;permission&quot;, &quot;store:&amp;nbsp;edit&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource id&quot;= [request.store.store_id]&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, &quot;resource role&quot;=&quot;Otter Admin&quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;))&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;]&lt;br&gt;}&lt;br&gt;......&lt;br&gt;]&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="UtKMWpXWZYvw-dGDpyW5-1" value="Otter Admin Role Policy&lt;br&gt;Any[&lt;br&gt;{&lt;br&gt;&quot;name&quot;: &quot;Store Read&quot;&lt;br&gt;conditions: [&lt;br&gt;Any[&lt;br&gt;( match(request, &quot;permission&quot;, &quot;store:read&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource id&quot;= [request.store.org_id], &quot;resource role&quot;=&quot;Otter Admin&quot;)),&lt;/div&gt;&lt;div&gt;(&amp;nbsp;match(request, &quot;permission&quot;, &quot;store:read&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource id&quot;= [request.store.store_id]&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, &quot;resource role&quot;=&quot;Otter Admin&quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;))&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;]&lt;br&gt;},&lt;br&gt;{&lt;br&gt;&quot;name&quot;: &quot;Store Edit&quot;&lt;br&gt;conditions: [&lt;br&gt;Any[&lt;br&gt;(&amp;nbsp;match(request, &quot;permission&quot;, &quot;store:edit&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource id&quot;= [request.store.org_id]&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, &quot;resource role&quot;=&quot;Otter Admin&quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)),&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(&amp;nbsp;match(request, &quot;permission&quot;, &quot;store:&amp;nbsp;edit&quot;)&lt;div&gt;&amp;nbsp; match(principal, &quot;resource id&quot;= [request.store.store_id]&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, &quot;resource role&quot;=&quot;Otter Admin&quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;))&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;]&lt;br&gt;}&lt;br&gt;......&lt;br&gt;]&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="583" y="4797" width="706" height="531" as="geometry" />
         </mxCell>
-        <mxCell id="UtKMWpXWZYvw-dGDpyW5-2" value="ABAC policy based role" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UtKMWpXWZYvw-dGDpyW5-2" value="ABAC policy based role" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="647" y="4726" width="209" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UtKMWpXWZYvw-dGDpyW5-4" value="Idea:break down role permissions into policies, store resources in group with role name and resource id" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UtKMWpXWZYvw-dGDpyW5-4" value="Idea:break down role permissions into policies, store resources in group with role name and resource id" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="603" y="4763" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9VOk8m4knC-RUqRdFZZ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9VOk8m4knC-RUqRdFZZ7-1" target="9VOk8m4knC-RUqRdFZZ7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VOk8m4knC-RUqRdFZZ7-7" value="Change feed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9VOk8m4knC-RUqRdFZZ7-6">
+          <mxGeometry x="-0.2208" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9VOk8m4knC-RUqRdFZZ7-1" value="CDC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="397" y="6304" width="80" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="9VOk8m4knC-RUqRdFZZ7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9VOk8m4knC-RUqRdFZZ7-4" target="gKebIImFh-ZQM33xnNgw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VOk8m4knC-RUqRdFZZ7-4" value="&lt;h3 style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: var(--sds-space-x02); margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: var(--sds-font-weight-bold); font-stretch: inherit; line-height: 1.5; font-family: DDG_ProximaNova, DDG_ProximaNova_UI_0, DDG_ProximaNova_UI_1, DDG_ProximaNova_UI_2, DDG_ProximaNova_UI_3, DDG_ProximaNova_UI_4, DDG_ProximaNova_UI_5, DDG_ProximaNova_UI_6, &amp;quot;Proxima Nova&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: var(--sds-font-size-body-large); vertical-align: baseline; box-sizing: border-box; animation: 0.5s ease-in-out 0s 1 normal forwards running uw7MuK6mMhzORp5Jtfgj; white-space-collapse: break-spaces; overflow-wrap: break-word; color: rgb(34, 34, 34); text-align: start;&quot;&gt;Watchdog Service&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="545" y="6245" width="105" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
