@@ -805,6 +805,11 @@
         <mxCell id="9VOk8m4knC-RUqRdFZZ7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9VOk8m4knC-RUqRdFZZ7-4" target="gKebIImFh-ZQM33xnNgw-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9VOk8m4knC-RUqRdFZZ7-8" value="Grpc streaming" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9VOk8m4knC-RUqRdFZZ7-5">
+          <mxGeometry x="-0.5772" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9VOk8m4knC-RUqRdFZZ7-4" value="&lt;h3 style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: var(--sds-space-x02); margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: var(--sds-font-weight-bold); font-stretch: inherit; line-height: 1.5; font-family: DDG_ProximaNova, DDG_ProximaNova_UI_0, DDG_ProximaNova_UI_1, DDG_ProximaNova_UI_2, DDG_ProximaNova_UI_3, DDG_ProximaNova_UI_4, DDG_ProximaNova_UI_5, DDG_ProximaNova_UI_6, &amp;quot;Proxima Nova&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: var(--sds-font-size-body-large); vertical-align: baseline; box-sizing: border-box; animation: 0.5s ease-in-out 0s 1 normal forwards running uw7MuK6mMhzORp5Jtfgj; white-space-collapse: break-spaces; overflow-wrap: break-word; color: rgb(34, 34, 34); text-align: start;&quot;&gt;Watchdog Service&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="545" y="6245" width="105" height="51" as="geometry" />
         </mxCell>
