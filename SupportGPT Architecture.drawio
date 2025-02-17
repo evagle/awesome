@@ -87,23 +87,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-18" value="Py-SupportGPT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="896" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-19" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="1056" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UpDTwZIlFveo_wN8iUtt-20" target="UpDTwZIlFveo_wN8iUtt-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-20" value="Founctions/Tools" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350.75" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="350.75" y="1056" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="UpDTwZIlFveo_wN8iUtt-21" target="UpDTwZIlFveo_wN8iUtt-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="980" />
-              <mxPoint x="540" y="980" />
-              <mxPoint x="540" y="855" />
+              <mxPoint x="800" y="1066" />
+              <mxPoint x="540" y="1066" />
+              <mxPoint x="540" y="941" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,19 +113,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-21" value="Vector Store&lt;br&gt;ChromaDB-&amp;gt;vespa" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="954" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UpDTwZIlFveo_wN8iUtt-22" target="UpDTwZIlFveo_wN8iUtt-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-22" value="Internal APIs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="1166" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-23" value="Grpc Services" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="1266" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-24" value="Grpc Services" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1276" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UpDTwZIlFveo_wN8iUtt-7" target="UpDTwZIlFveo_wN8iUtt-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-45" value="Embedding Model&lt;br&gt;text-embedding-ada-002" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="824" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UpDTwZIlFveo_wN8iUtt-7" target="UpDTwZIlFveo_wN8iUtt-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -164,6 +164,9 @@
           <mxGeometry x="-0.2308" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-7" target="zG3F667VGbXvqsYIKhdl-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-7" value="Chatbot Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="675" width="120" height="70" as="geometry" />
@@ -181,7 +184,7 @@
           <mxGeometry x="650" y="210" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VJW5TG7ulVq54otyxMGV-6" value="&lt;b&gt;Embedding Pipeline&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="940" y="794" width="60" height="30" as="geometry" />
+          <mxGeometry x="940" y="880" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJW5TG7ulVq54otyxMGV-7" value="DataApp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="480" width="120" height="60" as="geometry" />
@@ -196,10 +199,13 @@
           <mxGeometry x="430" y="590" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="zG3F667VGbXvqsYIKhdl-2" value="Agent Framework:&lt;br&gt;1. runnbook&lt;br&gt;2. internal functions&lt;br&gt;3. vector search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="795" width="110" height="75" as="geometry" />
+          <mxGeometry x="230" y="881" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="zG3F667VGbXvqsYIKhdl-3" value="Customized Framework instead of LangChain/LIamaIndex&lt;br&gt;for flexibility and speed&lt;br&gt;e.g: we need to pass context like user token to tool funcs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="794" width="170" height="85" as="geometry" />
+          <mxGeometry x="60" y="880" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-4" value="DB&lt;br&gt;conversation&lt;br&gt;messages&lt;br&gt;tickets" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="255" y="770" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
