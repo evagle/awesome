@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="E73bntxt86W5P2doF7nK">
-    <mxGraphModel dx="2231" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,20 +177,26 @@
         <mxCell id="NEkNgyyi-g1eW3Eg_v2F-1" value="SplitText&lt;br&gt;fixed-size/delimiter/semantic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJW5TG7ulVq54otyxMGV-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;System Stats&lt;/h1&gt;&lt;p&gt;- 50k~100k customers&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 100k requests/day, max 4qps&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;latency 3s&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;py-supportgpt: 4pods 1c2G&lt;/span&gt;&lt;/p&gt;&lt;p&gt;chatbot-service: 8pods 0.5c2G&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VJW5TG7ulVq54otyxMGV-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;System Stats&lt;/h1&gt;&lt;p&gt;- 50k~100k customers&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 100k requests/day, max 4qps&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;latency 3s&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;py-supportgpt: 4pods 1c2G&lt;/span&gt;&lt;/p&gt;&lt;p&gt;chatbot-service: 8pods 0.5c2G&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="210" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="VJW5TG7ulVq54otyxMGV-6" value="&lt;b&gt;Embedding Pipeline&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VJW5TG7ulVq54otyxMGV-6" value="&lt;b&gt;Embedding Pipeline&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="940" y="794" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VJW5TG7ulVq54otyxMGV-7" value="DataApp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJW5TG7ulVq54otyxMGV-7" value="DataApp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJW5TG7ulVq54otyxMGV-8" value="Streamlit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJW5TG7ulVq54otyxMGV-8" value="Streamlit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJW5TG7ulVq54otyxMGV-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Play Ground&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VJW5TG7ulVq54otyxMGV-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Play Ground&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="985" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-1" value="Storage&lt;br&gt;Integrate with zendesk/sunco&lt;br&gt;provide callback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="590" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-2" value="Agent Framework:&lt;br&gt;1. runnbook&lt;br&gt;2. internal functions&lt;br&gt;3. vector search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="795" width="110" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
