@@ -198,6 +198,9 @@
         <mxCell id="zG3F667VGbXvqsYIKhdl-2" value="Agent Framework:&lt;br&gt;1. runnbook&lt;br&gt;2. internal functions&lt;br&gt;3. vector search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="795" width="110" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-3" value="Customized Framework instead of LangChain/LIamaIndex&lt;br&gt;for flexibility and speed&lt;br&gt;e.g: we need to pass context like user token to tool funcs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="794" width="170" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
