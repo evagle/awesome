@@ -165,7 +165,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zG3F667VGbXvqsYIKhdl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-7" target="zG3F667VGbXvqsYIKhdl-4">
+        <mxCell id="zG3F667VGbXvqsYIKhdl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpDTwZIlFveo_wN8iUtt-7" target="zG3F667VGbXvqsYIKhdl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpDTwZIlFveo_wN8iUtt-7" value="Chatbot Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -181,7 +181,7 @@
           <mxGeometry x="800" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJW5TG7ulVq54otyxMGV-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;System Stats&lt;/h1&gt;&lt;p&gt;- 50k~100k customers&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 100k requests/day, max 4qps&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- P90&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;latency 3s&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;py-supportgpt: 4pods 1c2G&lt;/span&gt;&lt;/p&gt;&lt;p&gt;chatbot-service: 8pods 0.5c2G&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="210" width="240" height="170" as="geometry" />
+          <mxGeometry x="280" y="170" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VJW5TG7ulVq54otyxMGV-6" value="&lt;b&gt;Embedding Pipeline&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="940" y="880" width="60" height="30" as="geometry" />
@@ -205,7 +205,34 @@
           <mxGeometry x="60" y="880" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="zG3F667VGbXvqsYIKhdl-4" value="DB&lt;br&gt;conversation&lt;br&gt;messages&lt;br&gt;tickets" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="255" y="770" width="60" height="80" as="geometry" />
+          <mxGeometry x="510" y="510" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-6" value="DB&lt;br&gt;conversation&lt;br&gt;messages&lt;br&gt;tickets" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1480" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-7" value="Tagging Pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zG3F667VGbXvqsYIKhdl-8" target="zG3F667VGbXvqsYIKhdl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-8" value="Data WareHouse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zG3F667VGbXvqsYIKhdl-4" target="zG3F667VGbXvqsYIKhdl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zG3F667VGbXvqsYIKhdl-10" target="zG3F667VGbXvqsYIKhdl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-10" value="Tagging Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-14" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zG3F667VGbXvqsYIKhdl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zG3F667VGbXvqsYIKhdl-10" target="zG3F667VGbXvqsYIKhdl-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
